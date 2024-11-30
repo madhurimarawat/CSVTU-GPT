@@ -1,0 +1,371 @@
+Question,Answer
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Chhattisgarh Swami Vivekananda Technical University, Bhilai"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Artificial Intelligence and Data Science) Semester: II
+Subject: 2 Semester Syllabus (Semester Semester),
+What is covered in 2 Semester Syllabus (Semester Semester)?,Subject: Engineering Mathematics-II Subject Code: A000271(014)
+What is covered in 2 Semester Syllabus (Semester Semester)?,Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 2 Semester Syllabus (Semester Semester)?,No. of Class tests to: 2(Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 2 Semester Syllabus (Semester Semester)?,ESE Duration: Three Hours Maximum Marks in ESE:100 Minimum Marks in ESE:35
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – I LINEAR ALGEBRA 8 Hours
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Systems of linear equations and their solutions using Gauss-elimination; vector space, subspace,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"spanning sets, linearly independence and dependence, basis and dimension, Rank of matrix; inner"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"product, Gram - Schmidt process."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Linear Transformation, Kernel and images of a linear map, Rank-Nullity Theorem (statement and"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"illustration); eigenvalues and eigenvectors, diagonalization of matrices, Jordan canonical form, quadratic"
+What is covered in 2 Semester Syllabus (Semester Semester)?,forms: positive definiteness
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT-II MULTIPLE INTEGRALS 4 Hours
+What is covered in 2 Semester Syllabus (Semester Semester)?,Double integration – Cartesian and polar co-ordinates – Change of order of integration. Area as a
+What is covered in 2 Semester Syllabus (Semester Semester)?,double integral – Triple integration in Cartesian coordinates – Volume as a triple integral – Change of
+What is covered in 2 Semester Syllabus (Semester Semester)?,variables between Cartesian and polar coordinates.
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – IIIORDINARY DIFFERENTIAL EQUATIONS 08 Hours
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Review of first order differential equations, linear differential equations, homogeneous higher order"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"linear differential equations, non- homogeneous higher order linear differential equations with constant"
+What is covered in 2 Semester Syllabus (Semester Semester)?,coefficients and reducible to differential equations with constant coefficients (method of undetermined
+What is covered in 2 Semester Syllabus (Semester Semester)?,"coefficients and method of variation of parameters), systems of differential equations, applications to"
+What is covered in 2 Semester Syllabus (Semester Semester)?,electrical circuits.
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – IVPARTIAL DIFFERENTIAL EQUATIONS 5 Hours
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Introduction to the partial differential equations, classification of second order PDE, method of"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"separation of variable, solution of one dimensional heat equation and wave equation."
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT V LAPLACE TRANSFORMS 7 Hours
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Laplace transforms its properties, Unit step function, Dirac delta functions, Convolution theorem, Inverse"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Laplace transform and its properties, solving differential equations using Laplace transform."
+What is covered in 2 Semester Syllabus (Semester Semester)?,Text Books
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. Introduction to Linear Algebra (2nd edition) by Serge Lang,Springer."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2. Advanced Engineering Mathematics (10th edition) by Erwin Kreyszig, Wiley easternLtd."
+What is covered in 2 Semester Syllabus (Semester Semester)?,Reference Books
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. Schaum’s outlines of Linear Algebra (5th edition) by Seymour Lipschutz, Marc Lipson,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"McGraw-Hill Education (India) Private Limited, New Delhi."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2. Linear Algebra by Hoffmanand Kunze,(2nd edition) Prentice Hall Publication ,New Delhi."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"3. Differential Equations with Applications and Historical notes by George Simmons, Tata Mc-"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Graw Hill publishing company Ltd, NewDelhi."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"4. Advanced Engineering Mathematics by C.R.Wylie, McGraw Hill Publications, NewDelhi."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"5. Advanced Engineering Mathematics (7thedition) by Peter V.O’Neil, Thomson. Brooks/Cole,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Singapore.Chhattisgarh Swami Vivekananda Technical University, Bhilai"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Artificial Intelligence and Data Science) Semester: II
+What is covered in 2 Semester Syllabus (Semester Semester)?,Subject: Data Structure Using C Subject Code: A000272(022)
+What is covered in 2 Semester Syllabus (Semester Semester)?,Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 2 Semester Syllabus (Semester Semester)?,No. of Class tests to: 2(Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 2 Semester Syllabus (Semester Semester)?,ESE Duration: Three Hours Maximum Marks in ESE:100 Minimum Marks in ESE:35
+What is covered in 2 Semester Syllabus (Semester Semester)?,Prerequisites:
+What is covered in 2 Semester Syllabus (Semester Semester)?,1. C Programming
+What is covered in 2 Semester Syllabus (Semester Semester)?,2. Foundations of Computer Science
+What is covered in 2 Semester Syllabus (Semester Semester)?,Course Objectives :
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. To teach how to design a new user defined, efficient, data types array, stack, queue, list, tree,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"graph,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,etc. abstract data types and reusable code using object based design techniques.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2. To demonstrate good programming practices, coding standards, modular programming,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,procedural and object-based way of thinking.
+What is covered in 2 Semester Syllabus (Semester Semester)?,3. To emphasize the design aspects of a new data structure for solving any real life problems.
+What is covered in 2 Semester Syllabus (Semester Semester)?,4. To lay strong emphasis on time complexity analysis techniques and algorithm design
+What is covered in 2 Semester Syllabus (Semester Semester)?,techniques.
+What is covered in 2 Semester Syllabus (Semester Semester)?,Course Outcomes :
+What is covered in 2 Semester Syllabus (Semester Semester)?,Student will be able to
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. Analyze data objects, data structures and related concepts."
+What is covered in 2 Semester Syllabus (Semester Semester)?,2. Implement problems using different data structures.
+What is covered in 2 Semester Syllabus (Semester Semester)?,3. Design and implement a database schema for a given problem-domain.
+What is covered in 2 Semester Syllabus (Semester Semester)?,4. Understand and implement trees and graphs.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"5. Do Programming in PL/SQL including stored procedures, stored functions, cursors and"
+What is covered in 2 Semester Syllabus (Semester Semester)?,packages.
+What is covered in 2 Semester Syllabus (Semester Semester)?,6. To appreciate the impact of analytics and big data on the information industry and the
+What is covered in 2 Semester Syllabus (Semester Semester)?,external ecosystem for analytical and data services.
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – I FUNDAMENTAL CONCEPTS 04 Hours
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Introduction to Data Structures: Data, Data Objects, Data Types ,Abstract Data Type (ADT) and data structures,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Concepts of static and dynamic, linear and nonlinear data structures. Introduction to Algorithms: Definition and"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Characteristics of an algorithm. Algorithm design tools – flowcharts and pseudo code, notations – algorithm"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"header, purpose, conditions and selection, loops, procedures and sub-algorithms."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Program development: Analysis, Design, Coding, Testing and Verification."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"UNIT – II LINEAR DATA STRUCTURES USING SEQUENTIAL ORGANIZATION, SEARCHING"
+What is covered in 2 Semester Syllabus (Semester Semester)?,AND SORTING 07 Hours
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Concept of sequential organization, arrays as ADT, Storage representation of array, Matrix operations using"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"arrays, String operations (Length, Concatenation, Copy, Palindrome, Reverse, Compare, Substring) without"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"using library functions, Searching: linear and binary search algorithms. Sorting: General concepts–Bubble"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"sort, Insertion sort, Selection sort, Heap sort, Merge sort, Quick sort.UNIT – III LISTS 08 Hours"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"List as ADT, Concept of linked organization of data against linked list. Singly linked list, doubly linked"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"list, circular linked list. Representation & manipulations of polynomials/sets using linked lists. Dynamic"
+What is covered in 2 Semester Syllabus (Semester Semester)?,memory management. Representation of sparse matrix. Addition and transpose of sparse matrix.
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – IV STACKS AND QUEUES 08 Hours
+What is covered in 2 Semester Syllabus (Semester Semester)?,Stack and queue as ADT. Operations on stack and queue. Implementations using arrays and dynamic memory
+What is covered in 2 Semester Syllabus (Semester Semester)?,"allocation. Application of stack for expression evaluation, expression conversion. Recursion and stacks"
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – V TREES AND GRAPHS 08 Hours
+What is covered in 2 Semester Syllabus (Semester Semester)?,Basic terminology. Binary trees and its representation. Binary tree traversals (recursive and non-recursive) and
+What is covered in 2 Semester Syllabus (Semester Semester)?,various operations. Insertion and deletion of nodes in binary search tree. Representation of graphs using
+What is covered in 2 Semester Syllabus (Semester Semester)?,"adjacency matrix, adjacency list. Implementation of algorithms for traversals; implementing Kruskal's, Prim's"
+What is covered in 2 Semester Syllabus (Semester Semester)?,algorithms. Single source shortest paths using Dijkstra’s algorithm. Applications of graphs and trees.
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – VI ALGORITHM ANALYSIS AND ALGORITHM DESIGN STRATEGIES 08 Hours
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Algorithm Analysis: Time Complexity–Bigoh‘O’,Omega‘Ω’, Theta‘θ’,Best, Average and Worst case"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"analysis: binary search, quick sort, merge sort, insertion sort."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Algorithmic Strategies: Divide and Conquer (quick sort and Tower of Hanoi),Backtracking(n-queens"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"problem), greedy (job scheduling), dynamic programming, branch and bound."
+What is covered in 2 Semester Syllabus (Semester Semester)?,Text Books
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. Y. Langsam, M. Augenstin and A. Tannenbaum, “Data Structures using C”, Pearson Education Asia,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"First Edition, 2002, ISBN 978-81-317-0229-1."
+What is covered in 2 Semester Syllabus (Semester Semester)?,Reference Books
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. E.Horowitz,S.Sahni,S.Anderson-freed,“FundamentalsofDataStructuresinC”,SecondEdition,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"University Press, ISBN 978-81-7371-605-8"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2. c, Prentice Hall of India, Second Edition, ISBN81-203-0596-5"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"3. Ellis Horowitz, S. Sahni, D. Mehta “Fundamentals of Data Structures in C++”, Galgotia Book"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Source, New Delhi."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"4. Jean-Paul Tremblay, Paul. G. Soresan, “An introduction to data structures with Applications”, Tata"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Mc- Graw Hill International Editions, 2nd edition 1984,ISBN-0-07-462471-7.Chhattisgarh Swami Vivekananda Technical University, Bhilai"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Artificial Intelligence and Data Science) Semester: II
+What is covered in 2 Semester Syllabus (Semester Semester)?,Subject: Object Oriented Programming Subject Code: A000273(022)
+What is covered in 2 Semester Syllabus (Semester Semester)?,Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 2 Semester Syllabus (Semester Semester)?,No. of Class tests to: 2(Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 2 Semester Syllabus (Semester Semester)?,ESE Duration: Three Hours Maximum Marks in ESE:100 Minimum Marks in ESE:35
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – I INTRODUCTION 06 HOURS
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Object oriented programming, Introduction, Application, characteristics, difference between object oriented"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"and procedure programming, Comparison of C and C++, Cout, Cin, Data Type, identifiers"
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – II OBJECT AND CLASSES 08 HOURS
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Implementation of class and object in C++, access modifiers, object as data type, constructor, destructor,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Object as function arguments, default copy constructor, parameterized constructor, returning object from"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"function,Structuresandclasses,Classesobjectsandmemory,staticclassdata,Arraysofobject,Arraysasclass"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Member Data, the standard C++ String class, Run time and Compile time polymorphism."
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – III OPERATOR OVERLOADING AND INHERITANCE 08 HOURS
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Overloading unary operators, overloading binary operators, data conversion, pitfalls of operators overloading,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Concept of inheritance, Derived class and base class, access modifiers, types of inheritance, Derived class"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"constructors, member function, public and private inheritance."
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – IV POINTER AND VIRTUAL FUNCTION 08 HOURS
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Addresses and pointers, the address-of operator & pointer and arrays, Pointer and Function pointer, Memory"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"management:NewandDelete,pointerstoobjects,debuggingpointers,VirtualFunction,friendfunction,Static"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"function, friend class, Assignment and copy initialization, this pointer, dynamic type information."
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – V STREAMS AND FILES 08 Hours
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Streams classes, Stream Errors, Disk File I/O with streams, file pointers, error handling in file I/O with"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"member function, overloading the extraction and insertion operators, memory as a stream object, command"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"line arguments, printer output, Function templates, Class templates Exceptions, Containers, exception"
+What is covered in 2 Semester Syllabus (Semester Semester)?,handling.
+What is covered in 2 Semester Syllabus (Semester Semester)?,Text Books
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. E. Balaguruswami,” Object Oriented Programming in C++”,TMH."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2. Robert Lafore, “Object Oriented Programming in C++”,Pearson."
+What is covered in 2 Semester Syllabus (Semester Semester)?,Reference Books
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. M.T. Somashekare, D.S. Guru, “Object-Oriented Programming with C++”,PHI."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2. Herbert Shildt, “The Complete Reference C++”, Tata McGraw Hill publication.Chhattisgarh Swami Vivekananda Technical University, Bhilai"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Artificial Intelligence and Data Science) Semester: II
+What is covered in 2 Semester Syllabus (Semester Semester)?,Subject: Digital Logic & Design Subject Code: A000274(028)
+What is covered in 2 Semester Syllabus (Semester Semester)?,Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 2 Semester Syllabus (Semester Semester)?,No. of Class tests to: 2(Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 2 Semester Syllabus (Semester Semester)?,ESE Duration: Three Hours Maximum Marks in ESE:100 Minimum Marks in ESE:35
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – I
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Boolean Algebra and DeMorgan’s Theorem, Logic Simplification SOP &POS forms, Canonical forms,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Karnaugh maps, Binary codes, Code Conversion."
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – II
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Combinational Logic Design: Half and Full Adders, Subtractors, Serial and Parallel Adders, BCD Adder,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Comparators, Multiplexers, De-multiplexers, Encoder, Decoder, Display, Barrel shifter and ALU."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Concept of PLDs like PAL, PLA, CPLDs, FPGA etc. Logic implementation using Programmable Devices"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"(ROM, PLA)."
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – III
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Sequential Logic Design: Building blocks like S-R, JK and Master-Slave JK FF, Edge triggered FF, Ripple"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"and Synchronous counters, Shift registers, Finite state machines, Design of synchronous FSM, Algorithmic"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"State Machines charts. Designing synchronous circuits like Pulse train generator, Pseudo Random Binary"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Sequence generator, Clock generation."
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – IV
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Logic Families and Semiconductor Memories: TTL NAND gate, Specifications, Noise margin,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Propagation delay, fan-in, fan-out, Tristate TTL, ECL, CMOS families and their interfacing, Memory"
+What is covered in 2 Semester Syllabus (Semester Semester)?,elements.
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT – V
+What is covered in 2 Semester Syllabus (Semester Semester)?,"VLSI Design flow: Design entry: Schematic, FSM & HDL, different modeling styles in Verilog HDL, Data"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"types and objects, Dataflow, Behavioral and Structural Modeling, Synthesis and Simulation. Verilog"
+What is covered in 2 Semester Syllabus (Semester Semester)?,constructs and codes for combinational and sequential circuits.
+What is covered in 2 Semester Syllabus (Semester Semester)?,Text Books/ Reference Books:
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. M. Morris Mano, “Digital Design with Verilog HDL” Pearson Education."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2. Stephan Brown, “Fundamentals of Digital Logic with Verilog Design”, Tata Mc Graw Hill."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"3. R.P. Jain, “Modern digital Electronics”, Tata McGraw Hill."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"4. Gothman, “Digital Electronics-An introduction to theory and practice”, Pearson Education"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"5. Douglas-Hall, “Digital Circuits and Systems”, Tata McGraw Hill"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"6. Samir Palnitkar, “Verilog HDL: A guide to Digital Design and Synthesis”, Suns of tPressChhattisgarh Swami Vivekananda Technical University, Bhilai"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Artificial Intelligence and Data Science) Semester: II
+What is covered in 2 Semester Syllabus (Semester Semester)?,Subject: Python for Data Science Subject Code: A000275(022)
+What is covered in 2 Semester Syllabus (Semester Semester)?,Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 2 Semester Syllabus (Semester Semester)?,No. of Class tests to: 2(Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 2 Semester Syllabus (Semester Semester)?,ESE Duration: Three Hours Maximum Marks in ESE:100 Minimum Marks in ESE:35
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT 1: INTRODUCTION TO DATA SCIENCE AND PYTHON PROGRAMMING
+What is covered in 2 Semester Syllabus (Semester Semester)?,Introduction to Data Science - Why Python? - Essential Python libraries - Python Introduction-
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Features, Identifiers, Reserved words, Indentation, Comments, Built-in Data types and their Methods:"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Strings, List, Tuples, Dictionary, Set - Type Conversion- Operators."
+What is covered in 2 Semester Syllabus (Semester Semester)?,Decision Making- Looping- Loop Control statement- Math and Random number functions. User
+What is covered in 2 Semester Syllabus (Semester Semester)?,defined functions - function arguments & its types.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"UNIT 2: FILE, EXCEPTION HANDLING AND OOP"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"User defined Modules and Packages in Python- Files: File manipulations, File and Directory related"
+What is covered in 2 Semester Syllabus (Semester Semester)?,methods- Python Exception Handling.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"OOPs Concepts -Class and Objects, Constructors – Data hiding- Data Abstraction- Inheritance."
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT 3: INTRODUCTION TO NUMPY
+What is covered in 2 Semester Syllabus (Semester Semester)?,NumPy Basics: Arrays and Vectorized Computation- The Num Pynd array- Creating ndarrays- Data
+What is covered in 2 Semester Syllabus (Semester Semester)?,Types fornd arrays- Arithmetic with Num Py Arrays- Basic Indexing and Slicing - Boolean Indexing-
+What is covered in 2 Semester Syllabus (Semester Semester)?,Transposing Arrays and Swapping Axes.
+What is covered in 2 Semester Syllabus (Semester Semester)?,Universal Functions: Fast Element-Wise Array Functions- Mathematical and Statistical Methods-
+What is covered in 2 Semester Syllabus (Semester Semester)?,Sorting-Unique and Other Set Logic.
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT 4: DATA MANIPULATION WITH PANDAS
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Introduction to pandas Data Structures: Series, DataFrame, Essential Functionality: Dropping Entries-"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Indexing, Selection, and Filtering- Function Application and Mapping- Sorting and Ranking."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Summarizing and Computing Descriptive Statistics- Unique Values, Value Counts, and Membership."
+What is covered in 2 Semester Syllabus (Semester Semester)?,Reading and Writing Data in Text Format.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"UNIT 5: DATA CLEANING, PREPARATION AND VISUALIZATION"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Data Cleaning and Preparation: Handling Missing Data - Data Transformation: Removing Duplicates,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Transforming Data Using a Function or Mapping, Replacing Values, Detecting and Filtering Outliers-"
+What is covered in 2 Semester Syllabus (Semester Semester)?,StringManipulation: Vectorized String Functions in pandas.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Plotting with pandas: Line Plots, Bar Plots, Histograms and Density Plots, Scatter or Point Plots."
+What is covered in 2 Semester Syllabus (Semester Semester)?,Text Books:
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. Y. Daniel Liang, “Introduction to Programming using Python”, Pearson, 2012."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2.Wes McKinney, “Python for Data Analysis: Data Wrangling with Pandas, NumPy, and"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"IPython”,O’Reilly, 2nd Edition,2018."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"3.Jake VanderPlas, “Python Data Science Handbook: Essential Tools for Working with Data”,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"O’Reilly,2017.4. Miller, Bradley, and David Ranum. Problem Solving with Algorithms and Data Structures Using"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Python. 2nd ed. Franklin, Beedle & Associates, 2011. ISBN: 9781590282571."
+What is covered in 2 Semester Syllabus (Semester Semester)?,Reference Books:
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. Wesley J. Chun, “Core Python Programming”, Prentice Hall,2006."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2. Mark Lutz, “Learning Python”, O’Reilly, 4th Edition, 2009."
+What is covered in 2 Semester Syllabus (Semester Semester)?,E Books
+What is covered in 2 Semester Syllabus (Semester Semester)?,1. https://www.programmer-books.com/introducing-data-science-pdf/
+What is covered in 2 Semester Syllabus (Semester Semester)?,2. https://www.cs.uky.edu/~keen/115/Haltermanpythonbook.pdf
+What is covered in 2 Semester Syllabus (Semester Semester)?,3. http://math.ecnu.edu.cn/~lfzhou/seminar/[Joel_Grus]_Data_Science_from_Scratch_First_Princ.pdf
+What is covered in 2 Semester Syllabus (Semester Semester)?,MOOC
+What is covered in 2 Semester Syllabus (Semester Semester)?,1. https://www.edx.org/course/python-basics-for-data-science
+What is covered in 2 Semester Syllabus (Semester Semester)?,2. https://www.edx.org/course/analyzing-data-with-python
+What is covered in 2 Semester Syllabus (Semester Semester)?,"3. https://www.coursera.org/learn/python-plotting?specialization=data-science-pythonChhattisgarh Swami Vivekananda Technical University, Bhilai"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Artificial Intelligence and Data Science) Semester: II
+What is covered in 2 Semester Syllabus (Semester Semester)?,Subject: Entrepreneurship Subject Code: A000276(046)
+What is covered in 2 Semester Syllabus (Semester Semester)?,Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 2 Semester Syllabus (Semester Semester)?,No. of Class tests to: 2(Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 2 Semester Syllabus (Semester Semester)?,ESE Duration: Three Hours Maximum Marks in ESE:40 Minimum Marks in ESE:14
+What is covered in 2 Semester Syllabus (Semester Semester)?,Assessment Criteria: Individual and Group Assignments.
+What is covered in 2 Semester Syllabus (Semester Semester)?,Week I: Negotiation
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Fundamentals of principled negotiations, Three basic people problems, Objective Criteria for negotiations,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Common obstacles in negotiation.
+What is covered in 2 Semester Syllabus (Semester Semester)?,Week II & III: Market Structures
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Rationale behind studying market structures, Economic definition of market, Determinants of market"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"structure, Economies of scale, Types of market structures."
+What is covered in 2 Semester Syllabus (Semester Semester)?,Week IV: Market Segmentation
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Target Market, Benefits of market segmentation, Types of market segmentation, Market Segmentation"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Strategy Creation.
+What is covered in 2 Semester Syllabus (Semester Semester)?,Week V: Competitive Analysis
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Basics of Competitive Analysis, Kinds of competitors, Selection of competitors for analysis, Competitive"
+What is covered in 2 Semester Syllabus (Semester Semester)?,analysis framework.
+What is covered in 2 Semester Syllabus (Semester Semester)?,Week VI & VII: Questionnaire Design Methods and Concerns
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Qualities of a good questionnaire, Preliminary decisions in questionnaire design, Measuring change over"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"time, Open- and closed-ended questions, Question wording, Question order, Pilot Tests and Focus Groups,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Pretests.
+What is covered in 2 Semester Syllabus (Semester Semester)?,Week VIII: Seeking Criticism and Constructive Feedback
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Writing to venture capitalists, handling professional correspondence, Networking (offline and online),"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Participation in Business Plan Competitions to raise funding.
+What is covered in 2 Semester Syllabus (Semester Semester)?,Week IX: Social Psychology and Entrepreneurship
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Human mind and decision making, Psychological Paradoxes, Human purchase behaviour and business,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Customer incentivization.
+What is covered in 2 Semester Syllabus (Semester Semester)?,Week X: Social Entrepreneurship
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Social entrepreneur and the power of new ideas, Articulation of a social problem, Understanding"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"beneficiary experience, importance of ethnographic studies, Operation Realities Analysis, Socio-politics,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Scope of venture.
+What is covered in 2 Semester Syllabus (Semester Semester)?,Week XI: People Analytics
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Data-based human resource improvement in organization, Measuring and managing performance,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Engagement, Culture and Attrition, Informal Communication Management, Law and Ethics of People"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Analytics.
+What is covered in 2 Semester Syllabus (Semester Semester)?,Week XII: Diversity in Workplace
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Importance of Diversity in an organization, Diversity and Performance, Measurement of Diversity,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Workplace discrimination, Case study.Text Books:"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. Mindset, Carol Dweck"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2. Leaders: Myth and Reality, General Stanley Mc CHRYSTAL"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"3. Outliers, Malcom Gladwell"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"4. Good to Great, Jim Collins"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"5. Steve Jobs, Walter Isaacson"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"6. The 7 habits of highly effective people, Stephen Covey"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"7. Thinking Fast and Slow, Daniel KahnemanChhattisgarh Swami Vivekananda Technical University, Bhilai"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Artificial Intelligence and Data Science) Semester: II
+What is covered in 2 Semester Syllabus (Semester Semester)?,Subject: Data Structure Using C Lab Subject Code: A000291(022)
+What is covered in 2 Semester Syllabus (Semester Semester)?,Maximum Marks in ESE:40 Minimum Marks in ESE:14
+What is covered in 2 Semester Syllabus (Semester Semester)?,List of Experiments:
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. Write a program to perform various string operations such as copy, length, reversing, palindrome,"
+What is covered in 2 Semester Syllabus (Semester Semester)?,concatenation and to find occurrence of a sub-string using and without using library functions.
+What is covered in 2 Semester Syllabus (Semester Semester)?,2. Implement the following Searching and Sorting methods:
+What is covered in 2 Semester Syllabus (Semester Semester)?,Searching: Sequential/Linear Search and Binary Search
+What is covered in 2 Semester Syllabus (Semester Semester)?,"Sorting: Bubble Sort , Insertion Sort, Selection Sort, Merge Sort, Heap Sort and Quick Sort."
+What is covered in 2 Semester Syllabus (Semester Semester)?,3. Implementation of Expression conversion and Evaluation using Stack.
+What is covered in 2 Semester Syllabus (Semester Semester)?,4. Implementation of operations on Priority Queue.
+What is covered in 2 Semester Syllabus (Semester Semester)?,5. Implementation of operations on Binary tree.
+What is covered in 2 Semester Syllabus (Semester Semester)?,6. Implementation of Expression Tree Traversals.
+What is covered in 2 Semester Syllabus (Semester Semester)?,7. Implementation of operations on Binary search tree.
+What is covered in 2 Semester Syllabus (Semester Semester)?,8. Implementation of DFS & BFS Graph Traversals techniques.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"9. Implementation of minimum spanning tree using Prime’s, Kruskal’s and Dijkstra’salgorithm."
+What is covered in 2 Semester Syllabus (Semester Semester)?,10. Implementation of operations on sequential file
+What is covered in 2 Semester Syllabus (Semester Semester)?,".Chhattisgarh Swami Vivekananda Technical University, Bhilai"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Artificial Intelligence and Data Science) Semester: II
+What is covered in 2 Semester Syllabus (Semester Semester)?,Subject: Object Oriented Programming Lab Subject Code: A000292(022)
+What is covered in 2 Semester Syllabus (Semester Semester)?,Maximum Marks in ESE:40 Minimum Marks in ESE:14
+What is covered in 2 Semester Syllabus (Semester Semester)?,List of Experiments:
+What is covered in 2 Semester Syllabus (Semester Semester)?,1. Write a program to find out the largest number using function.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2. Write a program to find the area of circle, rectangle and triangle using function overloading."
+What is covered in 2 Semester Syllabus (Semester Semester)?,3. Write a program to implement complex numbers using operator overloading.
+What is covered in 2 Semester Syllabus (Semester Semester)?,4. Write a program using class and object to print bio-data of the students.
+What is covered in 2 Semester Syllabus (Semester Semester)?,5. Write a program which defines a class with constructor and destructor which will count number
+What is covered in 2 Semester Syllabus (Semester Semester)?,of object created and destroyed.
+What is covered in 2 Semester Syllabus (Semester Semester)?,6. Write a program to show applications of different types of inheritances.
+What is covered in 2 Semester Syllabus (Semester Semester)?,7. Write a program to add two private data members using friend function.
+What is covered in 2 Semester Syllabus (Semester Semester)?,8. Write a program using dynamic memory allocation to perform 2x2 matrix addition and
+What is covered in 2 Semester Syllabus (Semester Semester)?,subtraction.
+What is covered in 2 Semester Syllabus (Semester Semester)?,9. Write a program to show the application of virtual function.
+What is covered in 2 Semester Syllabus (Semester Semester)?,10. Write a program that store five student records in a file.
+What is covered in 2 Semester Syllabus (Semester Semester)?,11. Write a program to show the application of class/function template.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"12. Write a program to show the application of exception handling.Chhattisgarh Swami Vivekananda Technical University, Bhilai"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Artificial Intelligence and Data Science) Semester: II
+What is covered in 2 Semester Syllabus (Semester Semester)?,Subject: Python for Data Science Lab Subject Code: A000293(022)
+What is covered in 2 Semester Syllabus (Semester Semester)?,Maximum Marks in ESE:40 Minimum Marks in ESE:14
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT 1: INTRODUCTION TO DATA SCIENCE AND PYTHON PROGRAMMING
+What is covered in 2 Semester Syllabus (Semester Semester)?,1. Implement basic Python programs for reading input from console.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2. Perform Creation, indexing, slicing, concatenation and repetition operations on Python built-in"
+What is covered in 2 Semester Syllabus (Semester Semester)?,"datatypes: Strings, List, Tuples, Dictionary, Set"
+What is covered in 2 Semester Syllabus (Semester Semester)?,3. Solve problems using decision and looping statements.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"4. Apply Python built-in data types: Strings, List, Tuples, Dictionary, Set and their methods to solve"
+What is covered in 2 Semester Syllabus (Semester Semester)?,anygiven problem
+What is covered in 2 Semester Syllabus (Semester Semester)?,5. Handle numerical operations using math and random number functions
+What is covered in 2 Semester Syllabus (Semester Semester)?,6. Create user-defined functions with different types of function arguments.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"UNIT 2: FILE, EXCEPTION HANDLING AND OOP"
+What is covered in 2 Semester Syllabus (Semester Semester)?,1. Create packages and import modules from packages.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2. Perform File manipulations- open, close, read, write, append and copy from one file to another."
+What is covered in 2 Semester Syllabus (Semester Semester)?,3. Handle Exceptions using Python Built-in Exceptions
+What is covered in 2 Semester Syllabus (Semester Semester)?,4. Solve problems using Class declaration and Object creation.
+What is covered in 2 Semester Syllabus (Semester Semester)?,5. Implement OOP concepts like Data hiding and Data Abstraction.
+What is covered in 2 Semester Syllabus (Semester Semester)?,6. Solve any real-time problem using inheritance concept.
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT 3: INTRODUCTION TO NUMPY
+What is covered in 2 Semester Syllabus (Semester Semester)?,"1. Create NumPy arrays from Python Data Structures, Intrinsic NumPy objects and Random Functions."
+What is covered in 2 Semester Syllabus (Semester Semester)?,"2. Manipulation of NumPy arrays- Indexing, Slicing, Reshaping, Joining and Splitting."
+What is covered in 2 Semester Syllabus (Semester Semester)?,3. Computation on NumPy arrays using Universal Functions and Mathematical methods.
+What is covered in 2 Semester Syllabus (Semester Semester)?,4. Import a CSV file and perform various Statistical and Comparison operations on rows/columns.
+What is covered in 2 Semester Syllabus (Semester Semester)?,5. Load an image file and do crop and flip operation using NumPy Indexing.
+What is covered in 2 Semester Syllabus (Semester Semester)?,UNIT 4: DATA MANIPULATION WITH PANDAS
+What is covered in 2 Semester Syllabus (Semester Semester)?,1. Create Pandas Series and DataFrame from various inputs.
+What is covered in 2 Semester Syllabus (Semester Semester)?,2. Import any CSV file to Pandas DataFrame and perform the following:
+What is covered in 2 Semester Syllabus (Semester Semester)?,(a) Visualize the first and last 10 records
+What is covered in 2 Semester Syllabus (Semester Semester)?,"(b) Get the shape, index and column details"
+What is covered in 2 Semester Syllabus (Semester Semester)?,(c) Select/Delete the records(rows)/columns based on conditions.(d) Perform ranking and sorting operations.
+What is covered in 2 Semester Syllabus (Semester Semester)?,(e) Do required statistical operations on the given columns.
+What is covered in 2 Semester Syllabus (Semester Semester)?,(f) Find the count and uniqueness of the given categorical values.
+What is covered in 2 Semester Syllabus (Semester Semester)?,(g) Rename single/multiple columns.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"UNIT 5: DATA CLEANING, PREPARATION AND VISUALIZATION"
+What is covered in 2 Semester Syllabus (Semester Semester)?,1.Import any CSV file to Pandas DataFrame and perform the following:
+What is covered in 2 Semester Syllabus (Semester Semester)?,(a) Handle missing data by detecting and dropping/ filling missing values.
+What is covered in 2 Semester Syllabus (Semester Semester)?,(b) Transform data using apply() and map() method.
+What is covered in 2 Semester Syllabus (Semester Semester)?,(c) Detect and filter outliers.
+What is covered in 2 Semester Syllabus (Semester Semester)?,(d) Perform Vectorized String operations on Pandas Series.
+What is covered in 2 Semester Syllabus (Semester Semester)?,"(e) Visualize data using Line Plots, Bar Plots, Histograms, Density Plots and Scatter Plots.Chhattisgarh Swami Vivekananda Technical University, Bhilai"
+What is covered in 2 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Artificial Intelligence and Data Science) Semester: II
+What is covered in 2 Semester Syllabus (Semester Semester)?,Subject: Digital Logic & Design Lab Subject Code: A000294(028)
+What is covered in 2 Semester Syllabus (Semester Semester)?,Maximum Marks in ESE:40 Minimum Marks in ESE:14
+What is covered in 2 Semester Syllabus (Semester Semester)?,List of Experiments:
+What is covered in 2 Semester Syllabus (Semester Semester)?,1. To verify
+What is covered in 2 Semester Syllabus (Semester Semester)?,a) DeMorgan’s Theorem for 2variables
+What is covered in 2 Semester Syllabus (Semester Semester)?,b) The sum-of product and product-of-sum expressions using universal gates
+What is covered in 2 Semester Syllabus (Semester Semester)?,2. To design and implement
+What is covered in 2 Semester Syllabus (Semester Semester)?,a) Full Adder using basic logic gates.
+What is covered in 2 Semester Syllabus (Semester Semester)?,b) Full Subtractors using basic logic gates.
+What is covered in 2 Semester Syllabus (Semester Semester)?,3. To design and implement 4-bit Parallel Adder/ Subtractors using IC7483.
+What is covered in 2 Semester Syllabus (Semester Semester)?,4. Design and Implementation of 4-bit Magnitude Comparator using IC7485.
+What is covered in 2 Semester Syllabus (Semester Semester)?,5. To realize
+What is covered in 2 Semester Syllabus (Semester Semester)?,a) 4:1 Multiplexer using gates
+What is covered in 2 Semester Syllabus (Semester Semester)?,b) 3-variable function using IC 74151(8:1MUX)
+What is covered in 2 Semester Syllabus (Semester Semester)?,6. Realize 1:8 Demultiplexers and 3:8 Decoder usingIC74138
+What is covered in 2 Semester Syllabus (Semester Semester)?,7. To realize the following flip-flops using NAND Gates.
+What is covered in 2 Semester Syllabus (Semester Semester)?,a) Clocked SR Flip-Flop
+What is covered in 2 Semester Syllabus (Semester Semester)?,b) JK Flip-Flop
+What is covered in 2 Semester Syllabus (Semester Semester)?,8. To realize the following shift registers usingIC7474
+What is covered in 2 Semester Syllabus (Semester Semester)?,(a) SISO (b) SIPO (c)PISO
+What is covered in 2 Semester Syllabus (Semester Semester)?,9. To realize the Ring Counter and Johnson Counter usingIC7476.
+What is covered in 2 Semester Syllabus (Semester Semester)?,10. To realize the Mod-N Counter usingIC7490.
+What is covered in 2 Semester Syllabus (Semester Semester)?,11. Simulate Full- Adder using simulation tool.
+What is covered in 2 Semester Syllabus (Semester Semester)?,12. Simulate Mod-8 Synchronous UP/DOWN Counter using simulation tool

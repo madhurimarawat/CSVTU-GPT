@@ -1,0 +1,598 @@
+Question,Answer
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),"Chhattisgarh Swami Vivekananda Technical University, Bhilai"
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),(C.G.)
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),Branch: B Tech Honours (Data Science) Semester - VII
+Subject: 7 Semester Syllabus (Semester Semester) (General),
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),Subject: Big Data Analytics Subject Code: ……………
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),"ESE Duration: Three Hours, Maximum Marks in ESE: 100"
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),Minimum Marks in ESE: 35
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),Course Objectives
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),"1. Develop a comprehensive understanding of big data technologies, tools, and techniques"
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),for processing and analyzing large-scale datasets.
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),2. Acquire knowledge and skills in utilizing advanced analytics methods tailored for big
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),data to extract meaningful insights.
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),3. Learn to apply big data analytics techniques to address real-world challenges and
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),opportunities across diverse domains.
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),"4. Gain proficiency in utilizing big data platforms and tools such as Hadoop, Spark, and"
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Software Engineering),NoSQL databases for efficient data processing and analysis.
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),5. Equip students with the capability to leverage big data analytics to make informed
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),decisions and drive innovation in various professional settings.
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),Course Outcomes
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),"Upon successful completion of the course, students should be able to:"
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),"1. Understand the concepts, characteristics, and challenges of big data, including volume,"
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),"velocity, variety, and veracity."
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),"2. Apply big data processing frameworks, such as Hadoop and Spark, to manage and analyze"
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),large-scale datasets efficiently.
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),"3. Design and implement data pre-processing techniques for cleaning, transforming, and"
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Software Engineering),preparing big data for analysis.
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),"4. Apply advanced analytics methods, including machine learning, data mining, and"
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),"predictive modelling, to extract insights and patterns from big data."
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),5. Develop and deploy scalable big data analytics solutions using cloud-based platforms and
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),distributed computing environments.
+What is covered in 7 Semester Syllabus (Semester Semester)? (Related to: Big Data Analytics),"6. Evaluate the performance, scalability, and reliability of big data analytics systems in real-"
+What is covered in 7 Semester Syllabus (Semester Semester)? (General),world scenarios.
+What is covered in Unit 1: INTRODUCTION TO BIG DATA ANALYTICS? (Related to: Big Data Analytics),"Overview of big data: characteristics, sources, and challenges, Introduction to big data
+analytics tools and technologies, Big data storage and processing frameworks: Hadoop,
+Spark, and Flink, Ethical and legal considerations in big data analytics."
+What is covered in Unit 2: DATA PREPROCESSING AND CLEANING? (Related to: Big Data Analytics),"Techniques for data cleaning, transformation, and integration, Handling missing data and
+outliers in big data, Data reduction and feature selection methods, Scalable data pre-
+processing work flows using Apache Pig and Apache Hive.Unit 3: BIG DATA PROCESSING AND ANALYTICS
+Map Reduce programming model for distributed data processing, Introduction to Apache
+Spark: RDDs, Data Frames, and Spark SQL, Machine learning algorithms for big data
+analytics: classification, regression, clustering, Real-time analytics and stream
+processing with Apache Flink."
+What is covered in Unit 4: ADVANCED ANALYTICS ON BIG DATA? (Related to: Software Engineering),"Deep learning for big data analytics: neural networks, convolutional neural networks
+(CNNs), recurrent neural networks (RNNs). Text analytics and natural language
+processing (NLP) on big data, Graph analytics for social network analysis and
+recommendation systems, Ensemble learning methods and model evaluation techniques."
+What is covered in Unit 5: SCALABLE BIG DATA ANALYTICS PLATFORMS? (Related to: Software Engineering),"Cloud-based big data analytics platforms: Amazon Web Services (AWS), Microsoft
+Azure, Google Cloud Platform (GCP), Containerization and orchestration tools: Docker,
+Kubernetes, Big data deployment and scaling strategies, Case studies and applications of
+big data analytics in various domains
+Textbooks
+1. T itle: ""Big Data Analytics: Methods and Applications"", Authors: J. Bauckhage, R.
+Srikant, V. Garg, Publisher: CRC Press, Year: 2016
+2. Title: ""Big Data Analytics: Turning Big Data into Big Money"", Authors: Frank Ohlhorst,
+- Publisher: John Wiley & Sons, Year: 2012
+Reference Books
+1. Title: ""Hadoop: The Definitive Guide"", Authors: Tom White, Publisher: O'Reilly Media,
+Year: 2015
+2. Title: ""Spark: The Definitive Guide"", Authors: Bill Chambers, Matei Zaharia, Publisher:
+O'Reilly Media, Year: 2018
+3. Title: ""Big Data Analytics with R and Hadoop"", Authors: Vignesh Prajapati, Anil Kumar
+K M - Publisher: Packt Publishing, Year: 2013Chhattisgarh Swami Vivekananda Technical University, Bhilai
+(C.G.)
+Branch: B Tech Honours (Data Science) Semester - VII
+Subject: Data Wrangling Subject Code: ……………
+Total Theory Periods: 40 Total Tutorial Periods: 10
+No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+ESE Duration: Three Hours, Maximum Marks in ESE: 100
+Minimum Marks in ESE: 35
+Course Objective
+1. Equip students with essential skills and techniques for acquiring, cleaning, transforming,
+and preparing raw data for analysis.
+2. Provide students with knowledge and tools to handle diverse data formats efficiently.
+3. Enable students to address missing or inconsistent data effectively during the data
+wrangling process.
+4. Teach students how to create structured datasets suitable for analysis and modeling in
+data science projects.
+5. Empower students with the ability to apply data wrangling techniques to real-world
+datasets, enhancing their proficiency in data preparation for downstream analysis.
+Course Outcomes
+Upon successful completion of the course, students should be able to:
+1. Understand the importance of data wrangling in the data science workflow and its role in
+ensuring data quality.
+2. Acquire data from various sources, including databases, web APIs, and file formats such
+as CSV, JSON, and XML.
+3. Clean and pre-process raw data to address issues such as missing values, outliers, and
+inconsistencies.
+4. Transform and reshape data using techniques such as filtering, aggregation, and
+normalization.
+5. Merge, join, and concatenate datasets to create unified datasets suitable for analysis.
+6. Document data wrangling processes and workflows to ensure reproducibility and
+transparency in data science projects."
+What is covered in Unit 1: INTRODUCTION TO DATA WRANGLING? (Related to: Software Engineering),"Overview of data wrangling: importance, challenges, and best practices, Data acquisition
+techniques: accessing databases, web scraping, and file I/O, Exploratory data analysis
+(EDA) for understanding data quality issues, Data cleaning techniques: handling missing
+values, outliers, and duplicates."
+What is covered in Unit 2: DATA TRANSFORMATION AND RESHAPING? (Related to: Big Data Analytics),"Techniques for data transformation: normalization, scaling, and encoding, Reshaping data
+using pivot tables, stack, and unstack operations, Extracting features from text and
+categorical data, Data aggregation and summarization techniques.Unit 3: MERGING AND JOINING DATASETS
+Combining datasets using concatenation, merging, and joining operations, Handling
+different types of joins: inner, outer, left, and right joins, Dealing with duplicate and
+mismatched keys during data merging, Advanced merging techniques: fuzzy matching
+and approximate string matching."
+What is covered in Unit 4: HANDLING TIME SERIES AND SPATIAL DATA? (Related to: Big Data Analytics),"Preprocessing time series data: resampling, interpolation, and rolling windows, Spatial
+data wrangling techniques: geocoding, spatial joins, and spatial queries, Handling special
+data types: images, audio, and video data, Integrating external datasets with geographic
+information systems (GIS)."
+What is covered in Unit 5: DOCUMENTING AND REPRODUCING DATA WRANGLING WORKFLOWS? (Related to: Software Engineering),"Documenting data wrangling processes: code comments, markdown files, and Jupyter
+notebooks,Version control and collaboration using Git and GitHub, Automation and
+reproducibility using scripting and workflow management tools, Best practices for
+organizing and managing data wrangling projects.
+Textbooks
+1. Title: ""Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"",
+Author: Wes McKinney, Publisher: O'Reilly Media, Year: 2017
+2. Title: ""R for Data Science: Import, Tidy, Transform, Visualize, and Model Data"",
+Authors: Hadley Wickham, Garrett Grolemund, Publisher: O'Reilly Media, Year: 2017
+Reference Books
+1. Title: ""Data Wrangling with Python: Tips and Tools to Make Your Life Easier"", Author:
+Jacqueline Kazil, Katharine Jarmul, Publisher: O'Reilly Media, Year: 2016
+2. Title: ""Data Wrangling with R"", Author: Bradley Boehmke, Jaynal Abedin, Publisher:
+Springer, Year: 2016
+3. Title: ""The Art of Data Science: A Guide for Anyone Who Works with Data"", Authors:
+Roger D. Peng, Elizabeth Matsui, Jeff Leek, Publisher: Leanpub, Year: 2015Chhattisgarh Swami Vivekananda Technical University, Bhilai
+(C.G.)
+Branch: B Tech Honours (Data Science) Semester - VII
+Subject: Software Engineering Subject Code: ……………
+Total Theory Periods: 40 Total Tutorial Periods: 10
+No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+ESE Duration: Three Hours, Maximum Marks in ESE: 100
+Minimum Marks in ESE: 35
+Course Objectives
+1. Develop a comprehensive understanding of software development principles,
+methodologies, and practices.
+2. Acquire knowledge and skills essential for designing, developing, and maintaining high-
+quality software systems.
+3. Emphasize the application of software engineering best practices within the realm of
+artificial intelligence (AI) applications.
+4. Gain proficiency in implementing software engineering techniques tailored for AI-centric
+projects.
+5. Prepare students to effectively design, develop, and manage software solutions by
+integrating software engineering principles with AI technologies.
+Course Outcomes
+Upon successful completion of the course, students should be able to:
+1. Understand the fundamental concepts and principles of software engineering, including
+requirements engineering, software design, and testing.
+2. Apply software development methodologies, such as agile, iterative, and incremental
+approaches, to plan and manage software projects effectively.
+3. Design and implement software systems using appropriate programming languages,
+frameworks, and tools, with a focus on AI applications.
+4. Apply software engineering best practices for ensuring software quality, reliability, and
+maintainability in AI systems.
+5. Collaborate effectively in software development teams, practicing communication,
+teamwork, and project management skills.
+6. Demonstrate ethical and professional responsibility in software development, adhering to
+legal and ethical standards and considering societal impacts."
+What is covered in Unit 1: INTRODUCTION TO SOFTWARE ENGINEERING? (Related to: Software Engineering),"Overview of software engineering: concepts, principles, and software development life
+cycle, Software processes and methodologies: waterfall, agile, scrum, and kanban,
+Requirements engineering: elicitation, analysis, specification, and validation, Ethical and
+professional considerations in software engineering."
+What is covered in Unit 2: SOFTWARE DESIGN AND ARCHITECTURE? (Related to: Software Engineering),"Principles of software design: abstraction, modularity, cohesion, and coupling,
+Architectural styles and patterns: client-server, layered architecture, and microservices,
+Design principles for AI systems: modifiability, scalability, and adaptability, Softwaremodeling techniques: UML diagrams, entity-relationship diagrams, and data flow
+diagrams."
+What is covered in Unit 3: IMPLEMENTATION AND TESTING? (Related to: Software Engineering),"Programming paradigms and languages for software development, Coding standards,
+conventions, and best practices, Unit testing, integration testing, and system testing
+techniques, Test-driven development (TDD) and behavior-driven development (BDD)
+practices."
+What is covered in Unit 4: SOFTWARE MAINTENANCE AND EVOLUTION? (Related to: Software Engineering),"Software maintenance activities: corrective, adaptive, and perfective maintenance,
+Version control systems and configuration management, Software refactoring and code
+quality improvement techniques, Legacy system modernization and migration strategies."
+What is covered in Unit 5: SOFTWARE PROJECT MANAGEMENT? (Related to: Software Engineering),"Project planning and estimation techniques: work breakdown structure (WBS), effort
+estimation models, Agile project management frameworks: scrum, kanban, and extreme
+programming (XP), Risk management and mitigation strategies in software projects,
+Software documentation and knowledge management practices
+Textbooks
+1. Title: ""Software Engineering: A Practitioner's Approach"", Author: Roger S. Pressman,
+Publisher: McGraw-Hill Education, Year: 2020.
+2. Title: ""Clean Code: A Handbook of Agile Software Craftsmanship"", Author: Robert C.
+Martin, Publisher: Prentice Hall, Year: 2008.
+Reference Books
+1. Title: ""Agile Software Development: Principles, Patterns, and Practices"", Author: Robert
+C. Martin, Publisher: Prentice Hall, Year: 2002.
+2. Title: ""Introduction to the Art of Programming Using Scala"", Author: Mark C. Lewis,
+Publisher: CRC Press, Year: 2012.
+3. Title: ""Continuous Delivery: Reliable Software Releases through Build, Test, and
+Deployment Automation"", Authors: Jez Humble, David Farley, Publisher: Addison-
+Wesley Professional, Year: 2010.Chhattisgarh Swami Vivekananda Technical University, Bhilai
+(C.G.)
+Branch: B Tech Honours (Data Science) Semester - VII
+Subject: Big Data Analytics Lab Subject Code:
+Maximum Marks in ESE: 40
+LIST OF EXPERIMENTS -:
+1. Data Exploration with Hadoop: Use Hadoop to explore large-scale datasets stored in the
+Hadoop Distributed File System (HDFS), and performs basic operations such as listing
+files, reading data, and calculating summary statistics.
+2. Word Count with Map Reduce: Implement the classic Map Reduce word count algorithm
+to count the frequency of words in a large text corpus stored in HDFS.
+3. Data Analysis with Spark: Use Apache Spark to analyze large datasets by loading them
+into Spark RDDs (Resilient Distributed Datasets) and performing operations such as
+filtering, mapping, and aggregation.
+4. Streaming Analytics with Kafka and Spark: Set up a data streaming pipeline using
+Apache Kafka to ingest real-time data and process it using Apache Spark Streaming for
+real-time analytics.
+5. Data Visualization with Python and Matplotlib: Use Python and Matplotlib library to
+visualize insights extracted from large datasets, such as plotting histograms, scatter plots,
+or time series data.
+6. Machine Learning Model Training with Spark MLlib: Train machine learning models on
+large datasets using Spark's MLlib library, and evaluate model performance using
+techniques such as cross-validation and model selection.
+7. Graph Analytics with GraphX: Explore graph-structured data using Apache Spark's
+GraphX library, and perform graph analytics tasks such as computing centrality measures
+or detecting communities.
+8. SQL Queries with Hive: Write and execute SQL queries using Apache Hive to analyze
+structured data stored in HDFS, and perform operations such as filtering, joining, and
+aggregating data.
+9. Data Sampling and Stratification: Implement data sampling techniques to generate
+representative subsets of large datasets, and stratify the data based on specific criteria for
+balanced sampling.
+10. Data Cleaning and Preprocessing with Pandas: Use the Pandas library in Python to clean
+and preprocess large datasets, addressing issues such as missing values, outliers, and
+inconsistent data.Chhattisgarh Swami Vivekananda Technical University, Bhilai
+(C.G.)
+Branch: B Tech Honours (Data Science) Semester - VII
+Subject: Data Wrangling Lab Subject Code:
+Maximum Marks in ESE: 40
+LIST OF EXPERIMENTS -:
+1. Handling Missing Values: Identify and fill missing values in a dataset using methods
+such as mean imputation or forward/backward filling.
+2. Data Filtering: Filter rows or columns based on specified criteria, such as removing
+outliers or selecting data within a certain range.
+3. Data Aggregation: Aggregate data by grouping rows based on a specific attribute and
+computing summary statistics, such as mean, median, or count.
+4. Data Concatenation: Concatenate multiple datasets along rows or columns to create a
+unified dataset.
+5. Data Reshaping: Reshape data by pivoting, stacking, or unstacking to convert between
+wide and long formats.
+6. Data Sampling: Randomly sample rows or columns from a dataset to create a smaller
+subset for analysis.
+7. Data Conversion: Convert data types of columns, such as converting categorical variables
+to numerical or vice versa.
+8. Text Data Processing: Clean and preprocess text data by removing punctuation,
+stopwords, and performing tokenization.
+9. Date-Time Processing: Extract date or time components from datetime columns and
+perform operations such as calculating time differences or aggregating by time intervals.
+10. Data Merging: Merge two or more datasets based on common keys or indices to combine
+information from different sources.Chhattisgarh Swami Vivekananda Technical University, Bhilai
+(C.G.)
+Branch: B Tech Honours (Data Science) Semester - VII
+Subject: Software Engineering Lab Subject Code:
+Maximum Marks in ESE: 40
+LIST OF EXPERIMENTS -:
+1. Version Control with Git: Practice basic Git operations such as repository creation, file
+addition, committing changes, and pushing to a remote repository.
+2. Code Review Simulation: Conduct a simulated code review session where students
+provide feedback on each other's code, focusing on readability, maintainability, and
+adherence to coding standards.
+3. Unit Testing with pytest: Write and execute unit tests for Python functions using the
+pytest framework, covering different test cases and assertions.
+4. Continuous Integration Setup: Set up a basic continuous integration (CI) pipeline using
+tools like GitHub Actions or Travis CI to automatically build and test code changes on
+every commit.
+5. Code Refactoring Exercise: Identify and refactor code snippets to improve code quality,
+readability, and performance, focusing on techniques such as extracting methods,
+removing duplication, and improving naming conventions.
+6. Agile Sprint Planning: Conduct a simulated sprint planning session following agile
+principles, where students break down user stories into tasks, estimate their effort, and
+allocate them for a sprint.
+7. Pair Programming Activity: Pair up students to work on a programming task
+collaboratively, taking turns as the driver and navigator, and switch roles periodically to
+promote teamwork and knowledge sharing.
+8. Code Documentation Practice: Write and document Python functions and classes using
+docstrings and generate HTML documentation using tools like Sphinx or MkDocs.
+9. Mocking and Dependency Injection: Practice mocking and dependency injection
+techniques in Python using libraries like unittest.mock or dependency-injector to isolate
+and test individual components of a software system.
+10. Code Review Automation: Integrate a code quality analysis tool like CodeFactor or
+Codacy with GitHub to automatically analyze code changes and provide feedback on
+code style, complexity, and potential issues.Chhattisgarh Swami Vivekananda Technical University, Bhilai
+(C.G.)
+Branch: B Tech Honours (Data Science) Semester - VII
+Subject: Technical Communication and Soft Skill Subject Code: ……………
+Maximum Marks (TA): 20
+1. Effective Communication in Data Science
+Principles of effective technical communication. Written and verbal communication
+skills. Presentation techniques for conveying data science concepts.
+2. Teamwork and Collaboration
+Importance of teamwork in data science projects. Collaboration tools and techniques.
+Case Study: Team dynamics in a data science project team.
+3. Problem-Solving Skills
+Critical thinking and problem-solving strategies. Analytical skills for data analysis and
+interpretation.
+Case Study: Problem-solving approach in analyzing real-world datasets.
+4. Time Management and Productivity
+Time management techniques for project completion. Prioritization and task
+management skills.
+Case Study: Managing time effectively in data science project deadlines.
+5. Professional Ethics and Integrity
+Ethical considerations in data science research and analysis. Maintaining integrity and
+professionalism in data handling.
+Case Study: Ethical dilemmas in data collection and analysis processes.Chhattisgarh Swami Vivekananda Technical University, Bhilai
+(C.G.)
+Branch: B Tech Honours (Data Science) Semester - VII
+Subject: Computer Vision (Professional Elective II) Subject Code: ……………
+Total Theory Periods: 40 Total Tutorial Periods: 10
+No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+ESE Duration: Three Hours, Maximum Marks in ESE: 100
+Minimum Marks in ESE: 35
+Course Objectives
+1. To provide students with a comprehensive understanding of computer vision
+fundamentals and techniques.
+2. To enable students to apply computer vision algorithms to solve real-world problems in
+various domains.
+3. To familiarize students with state-of-the-art methodologies and advancements in
+computer vision research.
+4. To develop practical skills in image processing, feature extraction, object detection, and
+recognition.
+5. To encourage students to critically evaluate and analyze the ethical and societal
+implications of computer vision applications.
+Course Outcomes
+1. Understand the principles and theoretical foundations of computer vision.
+2. Apply various computer vision algorithms for tasks such as image classification, object
+detection, and image segmentation.
+3. Implement computer vision techniques using programming languages and frameworks
+such as Python and Open CV.
+4. Analyze and evaluate the performance of computer vision models using appropriate
+metrics.
+5. Demonstrate an understanding of ethical considerations and potential biases in computer
+vision applications."
+What is covered in Unit 1: INTRODUCTION TO COMPUTER VISION? (Related to: Image Processing),"Overview of computer vision concepts and applications. Image formation and
+representation. Colour spaces and image enhancement techniques. Image filtering and
+convolution operations."
+What is covered in Unit 2: IMAGE PROCESSING AND FEATURE EXTRACTION? (Related to: Big Data Analytics),"Image transformation and geometric operations. Image segmentation techniques (e.g.,
+thresholding, edge detection). Feature extraction methods (e.g., corner detection, scale-
+invariant feature transform).Unit 3: OBJECT DETECTION AND RECOGNITION
+Introduction to object detection and localization.Popular object detection algorithms (e.g.,
+Haar cascades, YOLO, SSD). Object recognition techniques using deep learning
+approaches (e.g., Convolutional Neural Networks)."
+What is covered in Unit 4: DEEP LEARNING FOR COMPUTER VISION? (General),"Fundamentals of deep learning and neural networks. Convolutional Neural Networks
+(CNNs) architecture and applications in computer vision.
+Transfer learning and fine-tuning pre-trained CNN models for specific tasks."
+What is covered in Unit 5: ADVANCED TOPICS AND APPLICATIONS? (Related to: Software Engineering),"Advanced topics in computer vision (e.g., image registration, motion analysis).
+Applications of computer vision in fields such as healthcare, autonomous vehicles, and
+surveillance. Ethical considerations and societal implications of computer vision
+technologies.
+TEXTBOOKS:
+1. Title: ""Computer Vision: Algorithms and Applications"" Author: Richard Szeliski,
+Publication Details: Springer, 2010
+2. Title: ""Learning OpenCV 4 Computer Vision with Python 3: Get to grips with tools,
+techniques, and algorithms for computer vision and machine learning"", Author: Joseph
+Howse, Joe Minichino, Prateek Joshi, Publication Details: Packt Publishing, 2018
+REFERENCE BOOKS:
+1. Title: ""Computer Vision: A Modern Approach"", Author: David A. Forsyth, Jean Ponce,
+Publication Details: Prentice Hall, 2002
+2. Title: ""Deep Learning for Computer Vision"", Author: Rajalingappaa Shanmugamani,
+Publication Details: Packt Publishing, 2018
+3. Title: ""Python Deep Learning: Exploring deep learning techniques, neural network
+architectures and GANs with PyTorch, Keras and TensorFlow"", Author: Ivan Vasilev,
+Daniel Slater, Gianmario Spacagna, Peter Roelants, Valentino Zocca, Publication Details:
+Packt Publishing, 2019Chhattisgarh Swami Vivekananda Technical University, Bhilai
+(C.G.)
+Branch: B Tech Honours (Data Science) Semester - VII
+Subject: Multimedia System and Application Subject Code: ……………
+(Professional Elective II)
+Total Theory Periods: 40 Total Tutorial Periods: 10
+No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+ESE Duration: Three Hours, Maximum Marks in ESE: 100
+Minimum Marks in ESE: 35
+Course Objectives
+1. To introduce students to the fundamental concepts and principles of multimedia systems.
+2. To provide an understanding of multimedia data representation, compression, and
+transmission techniques.
+3. To familiarize students with multimedia applications and their real-world
+implementations.
+4. To develop practical skills in designing and developing multimedia systems and
+applications.
+5. To encourage students to analyze and evaluate the performance of multimedia systems in
+various contexts.
+Course Outcomes
+1. Understand the components and architecture of multimedia systems.
+2. Apply multimedia data compression techniques to optimize storage and transmission.
+3. Design and develop multimedia applications using appropriate tools and technologies.
+4. Analyze and evaluate the performance of multimedia systems based on quality metrics
+and user experience.
+5. Demonstrate an understanding of ethical and legal considerations in multimedia content
+creation and distribution."
+What is covered in Unit 1: INTRODUCTION TO MULTIMEDIA SYSTEMS? (Related to: Big Data Analytics),"Overview of multimedia concepts, components, and applications. Multimedia data types
+and formats. Multimedia system architecture and components."
+What is covered in Unit 2: MULTIMEDIA DATA REPRESENTATION AND COMPRESSION? (Related to: Big Data Analytics),"Digital audio and video representation. Image and video compression techniques (e.g.,
+JPEG, MPEG). Lossy and lossless compression algorithms."
+What is covered in Unit 3: MULTIMEDIA COMMUNICATION AND STREAMING? (Related to: Big Data Analytics),"Multimedia data transmission over networks. Streaming media protocols and
+technologies. Quality of Service (QoS) considerations in multimedia communication."
+What is covered in Unit 4: MULTIMEDIA APPLICATIONS AND DEVELOPMENT? (Related to: Big Data Analytics),"Multimedia authoring tools and platforms. Design principles for interactive multimedia
+applications. Case studies of multimedia applications in various domains.Unit 5: ETHICAL AND LEGAL ASPECTS OF MULTIMEDIA
+Ethical considerations in multimedia content creation and distribution. Intellectual
+property rights and copyright issues in multimedia. Regulatory frameworks and standards
+for multimedia systems and applications.
+TEXTBOOKS
+1. Title: ""Multimedia Systems and Applications"", Author: Ralf Steinmetz, Klara Nahrstedt,
+Publication Details: Springer, 2004.
+2. Title: ""Multimedia: Computing, Communications & Applications"", Author: Ralf
+Steinmetz, Klara Nahrstedt, Publication Details: Prentice Hall, 2010.
+REFERENCE BOOKS
+1. Title: ""Multimedia Systems"", Author: John F. Koegel Buford, J. Lennox, Publication
+Details: Springer, 2014.
+2. Title: ""Introduction to Multimedia Systems"", Author: Sugata Mitra, Publication Details:
+Chapman and Hall/CRC, 2017
+3. Title: ""Multimedia Systems: Algorithms, Standards, and Industry Practices"", Author:
+Parag Havaldar, Gerard Medioni. Publication Details: Springer, 2014.Chhattisgarh Swami Vivekananda Technical University, Bhilai
+(C.G.)
+Branch: B Tech Honours (Data Science) Semester - VII
+Subject: Image Processing (Professional Elective II) Subject Code: ……………
+Total Theory Periods: 40 Total Tutorial Periods: 10
+No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+ESE Duration: Three Hours, Maximum Marks in ESE: 100
+Minimum Marks in ESE: 35
+Course Objectives
+1. To introduce students to the fundamental principles and techniques of digital image
+processing.
+2. To provide an understanding of various image enhancement and restoration methods.
+3. To familiarize students with image segmentation and feature extraction techniques.
+4. To develop practical skills in implementing image processing algorithms using
+appropriate tools and programming languages.
+5. To encourage students to analyze and evaluate the performance of image processing
+algorithms in real-world applications.
+Course Outcomes
+1. Understand the theoretical foundations of digital image processing.
+2. Apply various image enhancement techniques to improve image quality and visual
+appearance.
+3. Implement image restoration algorithms to remove noise and other artifacts from images.
+4. Design and implement image segmentation algorithms for object detection and
+recognition.
+5. Analyze and evaluate the performance of image processing algorithms based on
+quantitative metrics and visual inspection."
+What is covered in Unit 1: INTRODUCTION TO DIGITAL IMAGE PROCESSING? (Related to: Big Data Analytics),"Overview of digital image processing concepts and applications. Digital image
+representation and characteristics.Image acquisition and preprocessing techniques."
+What is covered in Unit 2: IMAGE ENHANCEMENT AND RESTORATION? (Related to: Image Processing),"Spatial domain enhancement techniques (e.g., histogram equalization, spatial filtering).
+Frequency domain enhancement techniques (e.g., Fourier transform, filtering in
+frequency domain). Image restoration techniques (e.g., image denoising, image
+deblurring)."
+What is covered in Unit 3: IMAGE SEGMENTATION AND FEATURE EXTRACTION? (Related to: Software Engineering),"Thresholding and region-based segmentation methods. Edge detection algorithms (e.g.,
+Sobel, Canny). Feature extraction techniques (e.g., corner detection, texture analysis).Unit 4: MORPHOLOGICAL IMAGE PROCESSING
+Mathematical morphology operations (e.g., erosion, dilation, opening, closing).
+Morphological image processing for noise removal and feature extraction. Applications
+of morphological operations in image analysis."
+What is covered in Unit 5: ADVANCED TOPICS IN IMAGE PROCESSING? (Related to: Software Engineering),"Image compression techniques (e.g., JPEG, wavelet-based compression).Image
+registration and fusion methods. Case studies and applications of image processing in
+various domains (e.g., medical imaging, remote sensing).
+TEXTBOOKS
+1. Title: ""Digital Image Processing"", Author: Rafael C. Gonzalez, Richard E. Woods,
+Publication Details: Pearson, 2017
+2. Title: ""Digital Image Processing Using MATLAB"", Author: Rafael C. Gonzalez, Richard
+E. Woods, Steven L. Eddins, Publication Details: Gatesmark Publishing, 2019
+REFERENCE BOOKS
+1. Title: ""Image Processing, Analysis, and Machine Vision"", Author: Milan Sonka, Vaclav
+Hlavac, Roger Boyle, Publication Details: Cengage Learning, 2014.
+2. Title: ""Principles of Digital Image Processing: Core Algorithms"", Author: Wilhelm
+Burger, Mark J. Burge, Publication Details: Springer, 2009.
+3. Title: ""Computer Vision: Algorithms and Applications"", Author: Richard Szeliski,
+Publication Details: Springer, 2010.Chhattisgarh Swami Vivekananda Technical University, Bhilai
+(C.G.)
+Branch: B Tech Honours (Data Science) Semester - VII
+Subject: High Performance Computing Subject Code: ……………
+(Professional Elective II)
+Total Theory Periods: 40 Total Tutorial Periods: 10
+No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+ESE Duration: Three Hours, Maximum Marks in ESE: 100
+Minimum Marks in ESE: 35
+Course Objectives
+1. To introduce students to the principles and techniques of high-performance computing
+(HPC)
+2. To provide an understanding of parallel computing architectures and programming
+models.
+3. To familiarize students with performance optimization techniques for HPC applications.
+4. To develop practical skills in designing and implementing parallel algorithms for various
+computational tasks.
+5. To encourage students to analyze and evaluate the performance of HPC systems and
+applications.
+Course Outcomes
+1. Understand the principles of parallel computing and its relevance to high-performance
+computing.
+2. Apply parallel programming models and techniques to solve computationally intensive
+problems.
+3. Design and implement parallel algorithms for tasks such as matrix multiplication, sorting,
+and numerical simulations.
+4. Optimize the performance of parallel applications using profiling, tuning, and scaling
+techniques.
+5. Evaluate the performance and scalability of HPC systems based on metrics such as
+speedup, efficiency, and scalability."
+What is covered in Unit 1: INTRODUCTION TO HIGH-PERFORMANCE COMPUTING? (General),"Overview of high-performance computing concepts, applications, and challenges.
+Evolution of computing architectures and the need for parallelism. Introduction to
+parallel computing models (e.g., SIMD, MIMD)."
+What is covered in Unit 2: PARALLEL COMPUTING ARCHITECTURES? (Related to: Big Data Analytics),"Classification of parallel computing architectures (e.g., shared-memory, distributed-
+memory). Multi-core processors, GPUs, and accelerators for parallel computing.
+Interconnection networks and communication overhead in parallel systems.Unit 3: PARALLEL PROGRAMMING MODELS
+Introduction to parallel programming languages and libraries (e.g., MPI, OpenMP,
+CUDA). Parallelization techniques for different computational tasks (e.g., data
+parallelism, task parallelism). Hands-on exercises with parallel programming frameworks."
+What is covered in Unit 4: PERFORMANCE OPTIMIZATION IN HPC? (Related to: Software Engineering),"Profiling and performance analysis of parallel applications. Optimization techniques for
+memory access, communication, and computation.
+Scalability analysis and load balancing in parallel computing environments."
+What is covered in Unit 5: ADVANCED TOPICS IN HIGH-PERFORMANCE COMPUTING? (Related to: Software Engineering),"Parallel algorithms for specific computational tasks (e.g., numerical simulations, machine
+learning). High-performance computing in big data analytics and artificial intelligence.
+Case studies of HPC applications in scientific computing, engineering, and industry.
+TEXTBOOKS
+1. Title: ""Introduction to High Performance Computing for Scientists and Engineers"",
+Author: Georg Hager, Gerhard Wellein, Publication Details: CRC Press, 2010
+2. Title: ""Parallel Programming: Concepts and Practice"", Author: Thomas Rauber,
+Gudula Rünger, Publication Details: CRC Press, 2010
+REFERENCE BOOKS
+1. Title: ""High Performance Computing"", Author: Charles Severance, Kevin Dowd,
+Publication Details: O'Reilly Media, 2018
+2. Title: ""Parallel and Distributed Computing: A Survey of Models, Paradigms and
+Approaches"", Author: Claudia Leopold, Wolfgang Karl, Publication Details: Springer,
+2012
+3. Title: ""Programming Massively Parallel Processors: A Hands-on Approach"", Author:
+David B. Kirk, Wen-mei W. Hwu, Publication Details: Morgan Kaufmann, 2012Chhattisgarh Swami Vivekananda Technical University, Bhilai
+(C.G.)
+Branch: B Tech Honours (Data Science) Semester - VII
+Subject: Crypto-currency and Block Chain Technology (Professional Elective II)
+Subject Code: ……………
+Total Theory Periods: 40 Total Tutorial Periods: 10
+No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+ESE Duration: Three Hours, Maximum Marks in ESE: 100
+Minimum Marks in ESE: 35
+Course Objectives
+1. To introduce students to the fundamental concepts and principles of cryptocurrencies and
+blockchain technology.
+2. To provide an understanding of the underlying cryptographic techniques used in
+cryptocurrencies and blockchain.
+3. To familiarize students with the architecture and components of blockchain systems.
+4. To explore the applications and use cases of blockchain technology beyond cryptocurrencies.
+5. To develop practical skills in designing and implementing blockchain-based solutions.
+Course Outcomes
+1. Understand the fundamentals of cryptocurrencies, including their history, characteristics,
+and mechanics.
+2. Analyze the cryptographic techniques used in blockchain technology, such as hashing,
+digital signatures, and consensus mechanisms.
+3. Explain the architecture and components of blockchain systems, including blocks,
+transactions, and distributed ledgers.
+4. Identify and evaluate various applications of blockchain technology in industries such as
+finance, supply chain, and healthcare.
+5. Design and implement basic blockchain solutions, including smart contracts and
+decentralized applications (DApps)."
+What is covered in Unit 1: INTRODUCTION TO CRYPTOCURRENCIES? (General),"Overview of cryptocurrencies: history, characteristics, and benefits. Cryptographic
+techniques used in cryptocurrencies: hashing, digital signatures, and cryptographic hash
+functions. Introduction to blockchain technology and its role in cryptocurrencies."
+What is covered in Unit 2: BLOCKCHAIN ARCHITECTURE AND COMPONENTS? (General),"Basic principles of blockchain: decentralized consensus, immutability, and transparency.
+Blockchain architecture: blocks, transactions, and the structure of a blockchain. Types of
+blockchain networks: public, private, and consortium.Unit 3: CRYPTOCURRENCY MECHANICS AND ECONOMICS
+Mechanics of cryptocurrency transactions: wallets, addresses, and keys. Cryptocurrency
+mining: proof-of-work, proof-of-stake, and other consensus mechanisms. Economic
+aspects of cryptocurrencies: valuation, volatility, and market dynamics."
+What is covered in Unit 4: APPLICATIONS OF BLOCKCHAIN TECHNOLOGY? (General),"Beyond cryptocurrencies: use cases of blockchain in finance, supply chain management,
+healthcare, and more. Smart contracts: definition, execution, and applications.
+Decentralized applications (DApps) and their potential impact on various industries."
+What is covered in Unit 5: BLOCKCHAIN DEVELOPMENT AND IMPLEMENTATION? (Related to: Software Engineering),"Blockchain development platforms and tools: Ethereum, Hyperledger, and others. Hands-
+on exercises with blockchain development: creating smart contracts, deploying DApps,
+and interacting with blockchain networks. Challenges and future directions in blockchain
+technology.
+TEXTBOOKS
+1. Title: ""Mastering Bitcoin: Unlocking Digital Cryptocurrencies"", Author: Andreas M.
+Antonopoulos, Publication Details: O'Reilly Media, 2017
+2. Title: ""Blockchain Basics: A Non-Technical Introduction in 25 Steps"", Author: Daniel
+Drescher,Publication Details: Apress, 2017
+REFERENCE BOOKS
+1. Title: ""Blockchain Revolution: How the Technology Behind Bitcoin and Other
+Cryptocurrencies is Changing the World"", Author: Don Tapscott, Alex Tapscott,
+Publication Details: Portfolio, 2016
+2. Title: ""Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized
+Autonomous Organizations"", Author: Henning Diedrich
+Publication Details: CreateSpace Independent Publishing Platform, 2017
+3. Title: ""Mastering Blockchain: Unlocking the Power of Cryptocurrencies, Smart
+Contracts, and Decentralized Applications"", Author: Imran Bashir, Publication
+Details: Packt Publishing, 2018Chhattisgarh Swami Vivekananda Technical University, Bhilai
+(C.G.)
+Branch: B Tech Honours (Data Science) Semester - VII
+Subject: Technical Communication and Soft Skill Subject Code: ……………
+Maximum Marks (TA): 20
+1. Effective Communication in Data Science
+Principles of effective technical communication. Written and verbal communication skills.
+Presentation techniques for conveying data science concepts.
+2. Teamwork and Collaboration
+Importance of teamwork in data science projects.Collaboration tools and techniques.
+Case Study: Team dynamics in a data science project team.
+3. Problem-Solving Skills
+Critical thinking and problem-solving strategies. Analytical skills for data analysis and
+interpretation.
+Case Study: Problem-solving approach in analyzing real-world datasets.
+4. Time Management and Productivity
+Time management techniques for project completion. Prioritization and task management skills.
+Case Study: Managing time effectively in data science project deadlines.
+5. Professional Ethics and Integrity
+Ethical considerations in data science research and analysis. Maintaining integrity and
+professionalism in data handling.
+Case Study: Ethical dilemmas in data collection and analysis processes."

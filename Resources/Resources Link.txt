@@ -1,0 +1,23 @@
+Text Mining and Visualization: 
+https://www.kaggle.com/code/gunnvant/what-india-reads-about-a-visual-essay
+
+
+End To End LLM Project Using LLAMA 2- Open Source LLM Model From Meta:
+https://youtu.be/cMJWC-csdK4?feature=shared
+
+PDF Question Answering LLM:
+https://youtu.be/zxo3T4aQj6Q?feature=shared
+
+Sample LLM:
+https://huggingface.co/spaces/orderlymirror/text_gen2
+
+Sample LLM Document: The 48 Laws of Power
+
+Download files using request Stack Overflow:
+https://stackoverflow.com/questions/19056031/download-files-using-requests-and-beautifulsoup
+
+PDF Downloader GitHub:
+https://github.com/nhammad/PDFDownloader/blob/master/src/PdfDownloader.py
+
+PDF Downloader GeeksForGeeks:
+https://www.geeksforgeeks.org/downloading-pdfs-with-python-using-requests-and-beautifulsoup/

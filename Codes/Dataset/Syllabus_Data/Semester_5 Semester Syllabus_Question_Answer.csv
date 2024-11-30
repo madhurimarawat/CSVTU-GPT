@@ -1,0 +1,383 @@
+Question,Answer
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Chhattisgarh Swami Vivekananda Technical University, Bhilai (C.G.)"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Data Science) Semester: V
+Subject: 5 Semester Syllabus (Semester Semester),
+What is covered in 5 Semester Syllabus (Semester Semester)?,Subject: Pattern Recognition and Machine Learning Subject Code: C128571(022)
+What is covered in 5 Semester Syllabus (Semester Semester)?,Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 5 Semester Syllabus (Semester Semester)?,No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 5 Semester Syllabus (Semester Semester)?,"ESE Duration: Three Hours, Maximum Marks in ESE: 100 Minimum Marks in ESE: 35"
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-I: Probability Theory and Statistics
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Probability theory, Bayesian probabilities, Probability densities, Skewness and Kurtosis, Expectations and"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Covariances, Multivariate Gaussian Distribution, Combination of Random Variables; Moment Estimation,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Estimating the mean and variance, Law of Large Numbers; Measure Theory, Multiple Dimensional Spaces,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Metric Space, Normed Vector Space, Dot Product Space, Pre-Hilbert and Hilbert; Decision Theory,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Minimizing the misclassification rate, Minimizing the expected loss, Inference and Decision, Loss functions"
+What is covered in 5 Semester Syllabus (Semester Semester)?,for regression.
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-II: Parameter Estimation
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Maximum Likelihood Estimation, Maximum A-Posteriori (MAP) Estimation, Maximum Entropy"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Estimation, Minimum Relative Entropy Estimation, Maximum Mutual Information Estimation (MMIE);"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Model Selection, Akaike Information Criterion (AIC)Bayesian Information Criterion (BIC)."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-III: Parameter Classification
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Linear Models for Classification, Discriminant Functions, Two classes, Multiple classes, Least squares for"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"classification, Fisher’s linear discriminant, Relation to least squares, Fisher’s discriminant for multiple"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"classes, The perceptron algorithm; Probabilistic Generative Models, Continuous inputs, Maximum"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"likelihood solution, Discrete features, Exponential family; Probabilistic Discriminative Models."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-IV: Clustering and Learning
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Learning Algorithms, Risk Minimization, Empirical Risk Minimization, Capacity and Bounds on Risk,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Structural Risk Minimization; Decision and Regression Trees, Vector Quantization (VQ); Basic Clustering"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Techniques, Standard k-Means (Lloyd) Algorithm, Generalized Clustering, Merging, Modifications to the k-"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Means Algorithm, k-Means Wrappers, Rough k-Means, Fuzzy k-Means, k-Harmonic Means Algorithm,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Hybrid Clustering Algorithms; Estimation using Incomplete Data, Expectation Maximization (EM); Semi-"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Supervised Learning.
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-V: Kernel Methods and Support Vector Machines
+What is covered in 5 Semester Syllabus (Semester Semester)?,"The Two-Class Problem, Dual Representation, Soft Margin Classification; Origins of Kernel methods,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Kernel Mapping, The Kernel Trick; Constructing Kernels, Support Vector Machines: Formulation and"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Computation; Radial Basis Function Networks; Positive Semi-Definite Kernels, Linear Kernel, Polynomial"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Kernel, Gaussian Radial Basis Function (GRBF) Kernel, Cosine Kernel, Fisher Kernel, GLDS Kernel,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,GMM-UBM Mean Interval (GUMI) Kernel.
+What is covered in 5 Semester Syllabus (Semester Semester)?,TEXT BOOKS:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"1. Kevin P. Murphy, “Machine Learning: A Probabilistic Perspective”, MIT Press, 2012."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"2. Stephen Marsland, “Machine Learning –An Algorithmic Perspective”, CRC Press, 2009."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"3. SaikatDutt, Subramanian Chandramouli, Amit Kumar Das, “Machine Learning”, Pearson Education,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,2018.
+What is covered in 5 Semester Syllabus (Semester Semester)?,"4. Christopher Bishop, “Pattern Recognition and Machine Learning” Springer, 2011."
+What is covered in 5 Semester Syllabus (Semester Semester)?,Page 1 of 13REFERENCE BOOKS :
+What is covered in 5 Semester Syllabus (Semester Semester)?,"1. Andreas C. Muller, “Introduction to Machine Learning with Python: A Guide for Data Scientists”,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"O'Reilly, 2016."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"2. Sebastian Raschka, “Python Machine Learning”, Packt Publishing, 2015."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"3. Hastie, Tibshirani, Friedman, “The Elements of Statistical Learning: Data Mining, Inference,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"andPrediction”,2nd Edition, Springer, 2017."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"4. EthemAlpaydin, “Introduction to Machine Learning”, 2nd Revised edition, MIT Press,2010."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"5. Pattern Recognition and Machine Learning, Christopher M. Bishop, Springer."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"6. Machine Learning with SVM and other Kernel methods, K.P. SomanR.Loganathan, V.Ajay, PHI"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Learning Private Limited.\
+What is covered in 5 Semester Syllabus (Semester Semester)?,"7. Machine Learning, Tom Mitchell, McGraw Hill, 1997."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"8. Fundamentals of Speaker Recognition, HomayoonBeigi, Springer."
+What is covered in 5 Semester Syllabus (Semester Semester)?,E BOOKS:
+What is covered in 5 Semester Syllabus (Semester Semester)?,1. https://www.ibm.com/downloads/cas/GB8ZMQZ3
+What is covered in 5 Semester Syllabus (Semester Semester)?,MOOC:
+What is covered in 5 Semester Syllabus (Semester Semester)?,1. https://www.edx.org/course/machine-learning-fundamentals-2
+What is covered in 5 Semester Syllabus (Semester Semester)?,2. https://www.coursera.org/learn/machine-learning
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Page 2 of 13Chhattisgarh Swami Vivekananda Technical University, Bhilai (C.G.)"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Data Science) Semester: V
+What is covered in 5 Semester Syllabus (Semester Semester)?,Subject: Intelligent Data Analysis Subject Code: C128572(022)
+What is covered in 5 Semester Syllabus (Semester Semester)?,Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 5 Semester Syllabus (Semester Semester)?,No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 5 Semester Syllabus (Semester Semester)?,"ESE Duration: Three Hours, Maximum Marks in ESE: 100 Minimum Marks in ESE: 35"
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-I:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Introduction: Data Mining and Analysis, Challenges, Types of Data and Patterns, Application,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Understanding the Data - Measuring the Central Tendency: Mean, Median, and Mode, Measuring the"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Dispersion of Data: Range, Quartiles, Variance, Standard Deviation, Data Visualization Techniques."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Data Pre-Processing: Data Objects and Attribute Types, Measuring Data Similarity and Dissimilarity, Why"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Pre-process the Data, Data Cleaning, Data Integration, Data Reduction Data Transformation and Data"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Discretization.
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-II:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Classification: Basic Concepts, Decision Trees, Perceptrons, Neural Networks, Rule-based Classifier,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Nearest-Neighbor Classifier , Bayesian Classifier, Principles of Modelling: Train, Test, And Cross-"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Validation.
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-III:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Association Analysis: Frequent Itemset Mining - Apriori Algorithm, Rule generation, FP-Growth"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Algorithm, Compact Representation of Frequent Itemsets – Maximal Frequent Itemset and Closed Frequent"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Itemsets.
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-IV:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Clustering: Cluster Analysis, Partitioning Methods -k-Means and k-Medoids, Hierarchical Methods -"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Agglomerative versus Divisive Hierarchical Clustering Distance Measures in Algorithmic Methods, BIRCH,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Density-Based Method - DBSCAN, Grid-Based Methods STING, Evaluation of Clustering."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-V:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Anomaly Detection: Types of Anomalies, Challenges of Anomaly Detection, Type of Anomaly Detection"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Methods, Statistical Methods, Proximity-based Methods, and Clustering-based Methods, Classification-"
+What is covered in 5 Semester Syllabus (Semester Semester)?,based Methods.
+What is covered in 5 Semester Syllabus (Semester Semester)?,Text Books:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"1. Pang-Ning Tan, Michael Steinbach, and Vipin Kumar, “Introduction to data mining” Pearson"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Education India, 2016."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"2. Jiawei Han, Micheline Kamber and Jian Pei, “Data Mining: Concepts and Techniques, 3rd ed.,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Morgan Kaufmann Publishers, 2011"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"3. Christopher M. Bishop, “Pattern Recognition and Machine Learning”, Springer Science+ Business"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Media, LLC, 2006."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Page 3 of 13Chhattisgarh Swami Vivekananda Technical University, Bhilai (C.G.)"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Data Science) Semester: V
+What is covered in 5 Semester Syllabus (Semester Semester)?,Subject: Cryptography and Network Security Subject Code: C127573(022)
+What is covered in 5 Semester Syllabus (Semester Semester)?,Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 5 Semester Syllabus (Semester Semester)?,No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 5 Semester Syllabus (Semester Semester)?,"ESE Duration: Three Hours, Maximum Marks in ESE: 100 Minimum Marks in ESE: 35"
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT–I: CLASSICAL ENCRYPTION TECHNIQUES
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Symmetric cipher model, Steganography, Limitations of Perfect Secrecy, Shannon’s Theorem."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT–II: NUMBER THEORY
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Prime numbers and factoring, modular arithmetic, computations in finite fields, Discrete logarithms."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT–III: PRIVATE KEY ENCRYPTION SCHEMES AND BLOCK CIPHERS
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Pseudorandom Functions and Permutations, Private-Key Encryption Schemes, DES – The Data Encryption"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Standard, Attacks on DES, Single-Round DES, Two-Round DES, Three-Round DES, Best Known Attacks on"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Increasing the Key size for DES, Modes of Operation."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT–IV: PUBLIC KEY ASYMMETRIC CRYPTOGRAPHY
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Public-Key Problems and Mathematical Background, Diffie-Hellman Key Agreement, El-Gamal Encryption"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Scheme, RSA Encryption, Security of RSA, Hybrid Encryption , Attacks on RSA, Private and Public-Key, ,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Timing Attacks, Elliptic Curve Cryptography."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT–V: HASH FUNTIONS
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Definition and Properties, Constructions of Collision-Resistant Hash Functions, Popular Uses of Collision-"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Resistant Hash Functions, Random Oracle Model. Hash algorithms: SHA-512. Message Authentication:"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Message Authentication Codes Definitions, Constructions of Secure Message Authenticate Codes, Practical"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Constructions of Message Authentication Codes.
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT–VI: DIGITAL SIGNATURE AND APPLICATIONS AND SECURITY AT TRANSPORT LAYER
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Definitions, and Public-Key Infrastructure, Combining Encryption and Signatures – SignCryption, SSL"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Architecture, Protocols, SSL Message formats, Transport Layer Security, Kerberos Password Management."
+What is covered in 5 Semester Syllabus (Semester Semester)?,TEXT BOOKS:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"1. “Cryptography & Network Security” by William Stallings 4th Edition, 2006,Pearson Education"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Asia.
+What is covered in 5 Semester Syllabus (Semester Semester)?,"2. Kahate A, “Cryptography & Network Security”, Tata McGraw Hill, 2004."
+What is covered in 5 Semester Syllabus (Semester Semester)?,REFERENCE BOOKS:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"1. “Applied Cryptology” by Schiner Bruce, John Wiley & Sons,2001."
+What is covered in 5 Semester Syllabus (Semester Semester)?,2. “Introduction to Cryptography with Coding Theory” by Wade Trappe & Lawrence C
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Washington, New Jersey, Pearson Education,2006."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"3. Charlie Kaufman, Radia Perlman and Mike Speciner, “Network Security: Private"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Communication in a Public World”, Prentice Hall of India PrivateLimited."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"4. Behrouz A. Forouzan, “Cryptography and Network Security”, McGrawHill"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Page 4 of 13Chhattisgarh Swami Vivekananda Technical University, Bhilai (C.G.)"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Data Science) Semester: V
+What is covered in 5 Semester Syllabus (Semester Semester)?,Subject: Natural Language Processing Subject Code: C128574(022)
+What is covered in 5 Semester Syllabus (Semester Semester)?,Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 5 Semester Syllabus (Semester Semester)?,No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 5 Semester Syllabus (Semester Semester)?,"ESE Duration: Three Hours, Maximum Marks in ESE: 100 Minimum Marks in ESE: 35"
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-I: Introduction
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Definition, History, Applications of NLP, Goals of NLP."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-II: Words and Phonetics
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Regular expressions and Automata, Morphology and phonetics fundamentals, morphological diversity of"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Indian languages, morphology paradigms, finite state machine based morphology, Computational Phonology"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"and Text-to-Speech, Probabilistic Models of Pronunciation and Spelling, N-grams, HMMs and Speech"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Recognition, Wordnet and linking."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-III: Parsing
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Part-of Speech Tagging, theories of parsing, syntactic and statistical parsing, parsing algorithms, hybrid of"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"rule based and probabilistic parsing, scope ambiguity and attachment ambiguity resolution, Tree banks."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-IV: Discourse and dialogue
+What is covered in 5 Semester Syllabus (Semester Semester)?,"discourse and dialogue analysis, anaphora resolution, named entity resolution, event anaphora, Information"
+What is covered in 5 Semester Syllabus (Semester Semester)?,extraction and retrieval.
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-V: Applications
+What is covered in 5 Semester Syllabus (Semester Semester)?,"sentiment analysis, text entailment, machine translation, automated speech recognition systems, question-"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"answering based systems, shallow parsers."
+What is covered in 5 Semester Syllabus (Semester Semester)?,TEXT BOOKS:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"1. Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft), 2019."
+What is covered in 5 Semester Syllabus (Semester Semester)?,REFERENCES BOOK:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"1. Jurafsky, D. & J. Martin, ""Speech and Language Processing: An Introduction to Natural Language"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Processing Computational Linguistics, and Speech Recognition"" Prentice Hall, 2000."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"2. Grosz, B.J., Sparck Jones, K. & Webber, B.L. (eds) ""Readings in natural language processing"", Los Altos,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"CA. Morgan Kaufmann, 1986."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"3. Allen, J., ""Natural Language Understanding"", Redwood City, CA: 1994. Benjamin/Cummings."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"4. Bharti, Akshar,ChaitanyaVineet, Sangal Rajeev, ""Natural Language Processing"", Prentice Hall."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"5. Steven Bird, Ewan Klein, and Edward Loper, Natural Language Processing with Python, First Edition,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"O'reilly, 2009"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"6. Yoav Goldberg, University of Toronto, Neural Network Methods for Natural language Processing,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Morgan & Claypool, 2017"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"7. Christopher D. Manning, and HinrichSchutze. Foundations of statistical natural language processing. First"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Edition, MIT press, 1999"
+What is covered in 5 Semester Syllabus (Semester Semester)?,E BOOKS:
+What is covered in 5 Semester Syllabus (Semester Semester)?,1. https://www.cs.vassar.edu/~cs366/docs/Manning_Schuetze_StatisticalNLP.pdf
+What is covered in 5 Semester Syllabus (Semester Semester)?,2. https://www.nltk.org/book/
+What is covered in 5 Semester Syllabus (Semester Semester)?,3. https://www.nltk.org/genindex.html
+What is covered in 5 Semester Syllabus (Semester Semester)?,MOOC:
+What is covered in 5 Semester Syllabus (Semester Semester)?,1. https://www.coursera.org/learn/language-processing
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Page 5 of 13Chhattisgarh Swami Vivekananda Technical University, Bhilai (C.G.)"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Data Science) Semester: V
+What is covered in 5 Semester Syllabus (Semester Semester)?,Subject: Advanced Computer Network Subject Code: C127531(022)
+What is covered in 5 Semester Syllabus (Semester Semester)?,Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 5 Semester Syllabus (Semester Semester)?,No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 5 Semester Syllabus (Semester Semester)?,"ESE Duration: Three Hours, Maximum Marks in ESE: 100 Minimum Marks in ESE: 35"
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-I:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Computer Networks and the Internet: What is the Internet, The Network edge, The Network core, Access"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Networks and Physical media, ISPs and Internet Backbones, Delay and Loss in Packet-Switched Networks,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,History of Computer Networking and the Internet - Foundation of Networking Protocols: 5-layer TCP/IP
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Model, 7-Layer OSI Model, Internet Protocols and Addressing, Equal-Sized Packets Model: ATM -"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Networking Devices: Multiplexers, Modems and Internet Access Devices, Switching and Routing Devices,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Router Structure.
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-II:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"The Link Layer and Local Area Networks: Link Layer: Introduction and Services, Error- Detection and"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Error-Correction techniques, Multiple Access Protocols, Link Layer Addressing, Ethernet, Interconnections:"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Hubs and Switches, PPP: The Point-to-Point Protocol, Link Virtualization, Routing and Internetworking:"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Network Layer Routing, Least-Cost-Path algorithms, Non-Least-Cost-Path algorithms, Intradomain Routing"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Protocols, Interdomain Routing Protocols, Congestion Control at Network Layer."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-III:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Logical Addressing: IPv4 Addresses, IPv6 Addresses - Internet Protocol: Internetworking, IPv4, IPv6,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Transition from IPv4 to IPv6, Multicasting Techniques and Protocols: Basic Definitions and Techniques,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Intradomain Multicast Protocols, Interdomain Multicast Protocols, Node-Level Multicast algorithms,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Transport and End-to-End Protocols: Transport Layer, Transmission Control Protocol (TCP), User Datagram"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Protocol (UDP), Mobile Transport Protocols, TCP Congestion Control, Application Layer: Principles of"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Network Applications, The Web and HTTP, File Transfer: FTP, Electronic Mail in the Internet, Domain"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Name System (DNS), P2P File Sharing, Socket Programming with TCP and UDP, Building a Simple Web"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Server.
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-IV:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Wireless Networks and Mobile IP: Infrastructure of Wireless Networks, Wireless LAN Technologies, IEEE"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"802.11 Wireless Standard, Cellular Networks, Mobile IP, Wireless Mesh Networks (WMNs) - Optical"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Networks and WDM Systems: Overview of Optical Networks, Basic Optical Networking Devices, Large-"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Scale Optical Switches, Optical Routers, Wavelength Allocation in Networks, Case Study: An All-Optical"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Switch.
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-V:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"VPNs, Tunneling and Overlay Networks: Virtual Private Networks (VPNs), Multiprotocol Label Switching"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"(MPLS), Overlay Networks, VoIP and Multimedia Networking: Overview of IP Telephony, VoIP Signaling"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Protocols, Real-Time Media Transport Protocols, Distributed Multimedia Networking, Stream Control"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Transmission Protocol - Mobile A-Hoc Networks: Overview of Wireless Ad-Hoc Networks, Routing in Ad-"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Hoc Networks, Routing Protocols for Ad-Hoc Networks, Wireless Sensor Networks: Sensor Networks and"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Protocol Structures, Communication Energy Model, Clustering Protocols, Routing Protocols."
+What is covered in 5 Semester Syllabus (Semester Semester)?,TEXT BOOKS:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"1. Computer Networking: A Top-Down Approach Featuring the Internet, James F. Kurose, Keith W.Ross,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Third Edition, Pearson Education, 2007"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"2. Computer and Communication Networks, Nader F. Mir, Pearson Education, 2007."
+What is covered in 5 Semester Syllabus (Semester Semester)?,Page 6 of 13REFERENCES:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"1. Data Communications and Networking, Behrouz A. Forouzan, Fourth Edition, Tata McGraw Hill, 2007"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"2. Guide to Networking Essentials, Greg Tomsho,Ed Tittel, David Johnson,Fifth Edition, Thomson."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"3. An Engineering Approach to Computer Networking , S.Keshav, Pearson Education."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"4. Campus Network Design Fundamentals, Diane Teare, Catherine Paquet, Pearson Education (CISCO"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Press)
+What is covered in 5 Semester Syllabus (Semester Semester)?,"5. Computer Networks, Andrew S. Tanenbaum, Fourth Edition, Prentice Hall."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"6. The Internet and Its Protocols, A. Farrel, Elsevier."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Page 7 of 13Chhattisgarh Swami Vivekananda Technical University, Bhilai (C.G.)"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Data Science) Semester: V
+What is covered in 5 Semester Syllabus (Semester Semester)?,Subject: Computational Complexity Subject Code: C127532(022)
+What is covered in 5 Semester Syllabus (Semester Semester)?,Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 5 Semester Syllabus (Semester Semester)?,No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 5 Semester Syllabus (Semester Semester)?,"ESE Duration: Three Hours, Maximum Marks in ESE: 100 Minimum Marks in ESE: 35"
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT – I:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Computational Complexity: Polynomial time and its justification, Nontrivial examples of polynomial-time"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"algorithms, the concept of reduction (reducibility), Class P Class NP and NP- Completeness, The P versus"
+What is covered in 5 Semester Syllabus (Semester Semester)?,NP problem and why it’s hard
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT - II:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Algorithmic paradigms: Dynamic Programming, Longest common subsequence, matrix chain multiplication,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"knapsack problem, Greedy – 0-1 knapsack, fractional knapsack, scheduling problem, Huffman coding, MST,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Branch-and-bound – travelling sales person problem, 0/1 knapsack problem, Divide and Conquer, Merge"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"sort, binary search, quick sort."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT - III:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Randomized Algorithms: Finger Printing, Pattern Matching, Graph Problems, Algebraic Methods,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Probabilistic Primality Testing, De-Randomization Advanced Algorithms."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT - IV:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Graph Algorithms: Shortest paths, Flow networks, Spanning Trees; Approximation algorithms, Randomized"
+What is covered in 5 Semester Syllabus (Semester Semester)?,algorithms. Approximation algorithms: Polynomial Time Approximation Schemes.
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT - V:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Advanced Data Structures and applications: Decision Trees and Circuits, B-Trees, AVL Trees, Red and"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Black trees, Dictionaries and tries, Maps, Binomial Heaps, Fibonacci Heaps, Disjoint sets, Union by Rank"
+What is covered in 5 Semester Syllabus (Semester Semester)?,and Path Compression
+What is covered in 5 Semester Syllabus (Semester Semester)?,TEXT BOOKS:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"1. T. Cormen, C. Leiserson, R. Rivest and C. Stein, Introduction to Algorithms, Third Edition,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"McGraw-Hill, 2009."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"2. R. Motwani and P. Raghavan, Randomized Algorithms, Cambridge University Press, 1995."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"3. J. J. McConnell, Analysis of Algorithms: An Active Learning Approach, Jones & Bartlett"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Publishers, 2001."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"4. D. E. Knuth, Art of Computer Programming, Volume 3, Sorting and Searching, Second Edition,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Addison-Wesley Professional, 1998."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"5. S. Dasgupta, C. H. Papadimitriou and U. V. Vazirani, Algorithms, McGraw-Hill, 2008."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Page 8 of 13Chhattisgarh Swami Vivekananda Technical University, Bhilai (C.G.)"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Data Science) Semester: V
+What is covered in 5 Semester Syllabus (Semester Semester)?,Subject: Distributed Computing Subject Code: C127533(022)
+What is covered in 5 Semester Syllabus (Semester Semester)?,Total Theory Periods: 40 Total Tutorial Periods: 10
+What is covered in 5 Semester Syllabus (Semester Semester)?,No. of Class tests to: 2 (Minimum) No. of Assignments to be submitted: One per Unit
+What is covered in 5 Semester Syllabus (Semester Semester)?,"ESE Duration: Three Hours, Maximum Marks in ESE: 100 Minimum Marks in ESE: 35"
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-I: INTRODUCTION
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Introduction: Definition-Relation to Computer System Components, Motivation, Message, Passing"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Systems versus Shared Memory Systems, Primitives for Distributed Communication,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Synchronous versus Asynchronous Executions, Design Issues and Challenges; A Model of"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Distributed Computations: A Distributed Program, A Model of Distributed Executions, Models of"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Communication Networks, Global State of a Distributed System."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-II: LOGICAL TIME AND GLOBAL STATE
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Logical Time: Physical Clock Synchronization: NTP, A Framework for a System of Logical Clocks, Scalar"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Time, Vector Time; Message Ordering and Group Communication: Message Ordering."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Paradigms, Asynchronous Execution with Synchronous Communication, Synchronous Program"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Order on Asynchronous System, Group Communication, Causal Order, Total Order; Global"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"State and Snapshot Recording Algorithms: Introduction – System Model and Definitions, Snapshot."
+What is covered in 5 Semester Syllabus (Semester Semester)?,Algorithms for FIFO Channels.
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-III: DISTRIBUTED MUTEX AND DEADLOCK
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Distributed Mutual exclusion Algorithms: Introduction, Preliminaries, Lamport’s algorithm, Ricart"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Agrawala’s Algorithm, Token-Based Algorithms, Suzuki-Kasami’s Broadcast Algorithm;"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Deadlock Detection in Distributed Systems: Introduction, System Model, Preliminaries Models"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"of Deadlocks, Chandy-Misra-Haas Algorithm for the AND model and OR Model."
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-IV: CONSENSUS AND RECOVERY
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Consensus and Agreement Algorithms: Problem Definition, Overview of Results, Agreement in a"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Failure-Free System (Synchronous and Asynchronous), Agreement in Synchronous Systems with"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Failures; Check pointing and Rollback Recovery: Introduction, Background and Definitions, Issues"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"in Failure Recovery, Checkpoint-based Recovery, Coordinated Check pointing Algorithm,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Algorithm for Asynchronous Check pointing and Recovery
+What is covered in 5 Semester Syllabus (Semester Semester)?,UNIT-V: CLOUD COMPUTING
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Definition of Cloud Computing, Characteristics of Cloud, Cloud Deployment Models, Cloud"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Service Models, Driving Factors and Challenges of Cloud, Virtualization, Load Balancing,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Scalability and Elasticity, Replication, Monitoring, Cloud Services and Platforms: Compute"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Services, Storage Services, Application Services"
+What is covered in 5 Semester Syllabus (Semester Semester)?,TEXT BOOKS:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"1. Kshemkalyani Ajay D, Mukesh Singhal, “Distributed Computing: Principles, Algorithms and"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Systems”, Cambridge Press, 2011."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"2. Mukesh Singhal, Niranjan G Shivaratri, “Advanced Concepts in Operating systems”, McGraw Hill"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Publishers, 1994."
+What is covered in 5 Semester Syllabus (Semester Semester)?,Page 9 of 13REFERENCES:
+What is covered in 5 Semester Syllabus (Semester Semester)?,"1. George Coulouris, Jean Dollimore, Time Kindberg, “Distributed Systems Concepts and Design”, Fifth"
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Edition, Pearson Education, 2012."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"2. Pradeep L Sinha, “Distributed Operating Systems: Concepts and Design”, Prentice Hall of India, 2007."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"3. Tanenbaum A S, Van Steen M, “Distributed Systems: Principles and Paradigms”, Pearson Education,"
+What is covered in 5 Semester Syllabus (Semester Semester)?,2007.
+What is covered in 5 Semester Syllabus (Semester Semester)?,"4. Liu M L, “Distributed Computing: Principles and Applications”, Pearson Education, 2004."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"5. Nancy A Lynch, “Distributed Algorithms”, Morgan Kaufman Publishers, 2003."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"6. Arshdeep Bagga, Vijay Madisetti, “ Cloud Computing: A Hands-On Approach”, Universities Press, 2014."
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Page 10 of 13Chhattisgarh Swami Vivekananda Technical University, Bhilai (C.G.)"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Data Science) Semester: V
+What is covered in 5 Semester Syllabus (Semester Semester)?,Subject: Pattern Recognition and Machine Learning Lab Subject Code: C128591(022)
+What is covered in 5 Semester Syllabus (Semester Semester)?,Maximum Marks in ESE: 40
+What is covered in 5 Semester Syllabus (Semester Semester)?,LIST OF EXPERIMENTS :
+What is covered in 5 Semester Syllabus (Semester Semester)?,1. Installation of Python Libraries/ MATLAB tools for Machine Learning
+What is covered in 5 Semester Syllabus (Semester Semester)?,2. Data pre-processing using Python Machine Learning libraries/ MATLAB.
+What is covered in 5 Semester Syllabus (Semester Semester)?,3. Design a model to predict the housing price from Boston Dataset using Multivariate Linear Regression.
+What is covered in 5 Semester Syllabus (Semester Semester)?,"4. Build a classifier using Logistic Regression, k- Nearest Neighbor / Decision Tree to classify whether the"
+What is covered in 5 Semester Syllabus (Semester Semester)?,given user will purchase a product or not from a social networking dataset.
+What is covered in 5 Semester Syllabus (Semester Semester)?,5. Segment a customer dataset based on the buying behaviour of customers using K- means/Hierarchical
+What is covered in 5 Semester Syllabus (Semester Semester)?,clustering.
+What is covered in 5 Semester Syllabus (Semester Semester)?,6. Dimensionality reduction of any CSV/image dataset using Principal Component Analysis.
+What is covered in 5 Semester Syllabus (Semester Semester)?,7. Recognition of MNIST handwritten digits using Artificial Neural Network.
+What is covered in 5 Semester Syllabus (Semester Semester)?,8. Build an email spam classifier using SVM.
+What is covered in 5 Semester Syllabus (Semester Semester)?,9. Classify the given text segment as ‘Positive’ or ‘Negative’ statement using the Naive Bayes Classifier.
+What is covered in 5 Semester Syllabus (Semester Semester)?,10. Predict future stock price of a company using Monte Carlo Simulation.
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Page 11 of 13Chhattisgarh Swami Vivekananda Technical University, Bhilai (C.G.)"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Data Science) Semester: V
+What is covered in 5 Semester Syllabus (Semester Semester)?,Subject: Intelligent Data Analysis Lab Subject Code: C128592(022)
+What is covered in 5 Semester Syllabus (Semester Semester)?,Maximum Marks in ESE: 40
+What is covered in 5 Semester Syllabus (Semester Semester)?,LIST OF EXPERIMENTS:
+What is covered in 5 Semester Syllabus (Semester Semester)?,Note – Datasets can be selected from UCI Machine Learning Repository and/or kaggle dataset
+What is covered in 5 Semester Syllabus (Semester Semester)?,repository for different experiments
+What is covered in 5 Semester Syllabus (Semester Semester)?,1. Demonstration of different pre-processing techniques including missing value handling and data
+What is covered in 5 Semester Syllabus (Semester Semester)?,discretization on Adult dataset.
+What is covered in 5 Semester Syllabus (Semester Semester)?,2. Demonstration of data reduction techniques including PCA and Histogram on Predict students' dropout and
+What is covered in 5 Semester Syllabus (Semester Semester)?,academic success dataset.
+What is covered in 5 Semester Syllabus (Semester Semester)?,3. Demonstration of classification rules process on dataset of your choice using ID3 and J48 algorithm in
+What is covered in 5 Semester Syllabus (Semester Semester)?,Weka explorer.
+What is covered in 5 Semester Syllabus (Semester Semester)?,4. Implement the classification rules process on dataset of your choice using Naive Baye’s algorithm in Weka
+What is covered in 5 Semester Syllabus (Semester Semester)?,explorer.
+What is covered in 5 Semester Syllabus (Semester Semester)?,5. Build a Neural Network model to predict whether tumor is malignant or benign for Breast Cancer
+What is covered in 5 Semester Syllabus (Semester Semester)?,Wisconsin (Diagnostic) dataset using Python.
+What is covered in 5 Semester Syllabus (Semester Semester)?,6. Demonstration of clustering on dataset of your choice using simple K-means algorithm in
+What is covered in 5 Semester Syllabus (Semester Semester)?,weka explorer and python.
+What is covered in 5 Semester Syllabus (Semester Semester)?,7. Demonstration of clustering on dataset of your choice using simple DBSCAN algorithm in
+What is covered in 5 Semester Syllabus (Semester Semester)?,weka explorer and python.
+What is covered in 5 Semester Syllabus (Semester Semester)?,8. Demonstration of clustering on dataset of your choice using simple BIRCH algorithm in
+What is covered in 5 Semester Syllabus (Semester Semester)?,weka explorer and python.
+What is covered in 5 Semester Syllabus (Semester Semester)?,9. Demonstration of association rule generation on Groceries dataset for Market Basket Analysis using Apriori
+What is covered in 5 Semester Syllabus (Semester Semester)?,algorithm in weka explorer.
+What is covered in 5 Semester Syllabus (Semester Semester)?,10. Perform comparative analysis of Apriori and FP-Growth algorithms on Market Basket Analysis using
+What is covered in 5 Semester Syllabus (Semester Semester)?,Python.
+What is covered in 5 Semester Syllabus (Semester Semester)?,"Page 12 of 13Chhattisgarh Swami Vivekananda Technical University, Bhilai (C.G.)"
+What is covered in 5 Semester Syllabus (Semester Semester)?,Branch: B Tech Honours (Data Science) Semester: V
+What is covered in 5 Semester Syllabus (Semester Semester)?,Subject: Natural Language Processing (Lab) Subject Code: C128593(022)
+What is covered in 5 Semester Syllabus (Semester Semester)?,Maximum Marks in ESE: 40
+What is covered in 5 Semester Syllabus (Semester Semester)?,List of Experiments:-
+What is covered in 5 Semester Syllabus (Semester Semester)?,1. Convert the text into tokens
+What is covered in 5 Semester Syllabus (Semester Semester)?,2. Find the word frequency
+What is covered in 5 Semester Syllabus (Semester Semester)?,3. Demonstrate a bigram language model
+What is covered in 5 Semester Syllabus (Semester Semester)?,4. Demonstrate a trigram language model
+What is covered in 5 Semester Syllabus (Semester Semester)?,5. Generate regular expression for a given text
+What is covered in 5 Semester Syllabus (Semester Semester)?,6. Perform Lemmatization
+What is covered in 5 Semester Syllabus (Semester Semester)?,7. Perform Stemming
+What is covered in 5 Semester Syllabus (Semester Semester)?,8. Identify parts-of Speech using Penn Treebank tag set.
+What is covered in 5 Semester Syllabus (Semester Semester)?,9. Implement HMM for POS tagging
+What is covered in 5 Semester Syllabus (Semester Semester)?,10. Build a Chunker
+What is covered in 5 Semester Syllabus (Semester Semester)?,11. Find the synonym of a word using WordNet
+What is covered in 5 Semester Syllabus (Semester Semester)?,12. Find the antonym of a word
+What is covered in 5 Semester Syllabus (Semester Semester)?,13. Implement semantic role labeling to identify named entities
+What is covered in 5 Semester Syllabus (Semester Semester)?,14. Resolve the ambiguity
+What is covered in 5 Semester Syllabus (Semester Semester)?,15. Translate the text using First-order logic
+What is covered in 5 Semester Syllabus (Semester Semester)?,16. Implement RNN for sequence labeling
+What is covered in 5 Semester Syllabus (Semester Semester)?,17. Implement POS tagging using LSTM
+What is covered in 5 Semester Syllabus (Semester Semester)?,18. Implement Named Entity Recognizer
+What is covered in 5 Semester Syllabus (Semester Semester)?,19. Word sense disambiguation by LSTM/GRU
+What is covered in 5 Semester Syllabus (Semester Semester)?,20. Develop a Movie review system
+What is covered in 5 Semester Syllabus (Semester Semester)?,21. Create a chatbot for HITS.
+What is covered in 5 Semester Syllabus (Semester Semester)?,Page 13 of 13
