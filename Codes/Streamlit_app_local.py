@@ -33,7 +33,10 @@ import os
 # This title will only be visible when running the app locally.
 # In the deployed app, the title will be displayed as "Title - Streamlit," where "Title" is the one we provide.
 # If we don't set the title, it will default to "Streamlit"
-st.set_page_config(page_title="CSVTU GPT")
+st.set_page_config(
+    page_title="CSVTU GPT",
+    page_icon="https://th.bing.com/th/id/OIP.gEB384k5m-GvLbulHyIzMwHaEO?w=1344&h=768&rs=1&pid=ImgDetMain",
+)
 
 # Dictionary mapping Semesters to their corresponding full subject names
 Semester_subject_names = {
